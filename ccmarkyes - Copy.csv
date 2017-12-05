@@ -1,0 +1,1024 @@
+Customer Number,Offer Accepted,Reward,Mailer Type,Income Level,# Bank Accounts Open,Overdraft Protection,Credit Rating,# Credit Cards Held,# Homes Owned,Household Size,Own Your Home,Average Balance
+28,Yes,Air Miles,Letter,Medium,1,No,Low,1,1,2,No,769.5
+46,Yes,Air Miles,Postcard,High,1,Yes,Low,2,1,5,Yes,851.25
+51,Yes,Air Miles,Postcard,Low,1,No,High,2,1,2,Yes,931.75
+58,Yes,Air Miles,Postcard,Low,1,No,Medium,1,1,2,Yes,1192.75
+75,Yes,Cash Back,Postcard,High,1,No,Low,2,2,5,Yes,1329.5
+77,Yes,Cash Back,Postcard,Medium,1,No,Low,1,1,5,Yes,908.5
+98,Yes,Points,Letter,Low,2,No,Low,3,1,3,Yes,1454.5
+102,Yes,Points,Postcard,High,1,Yes,Low,1,1,9,No,161.5
+113,Yes,Air Miles,Letter,High,1,Yes,High,2,1,5,Yes,1082.5
+132,Yes,Air Miles,Postcard,High,2,No,Medium,2,2,3,Yes,811.5
+159,Yes,Cash Back,Postcard,Medium,3,No,Low,1,1,5,No,1133.25
+225,Yes,Air Miles,Letter,Low,1,No,Low,1,1,3,No,1141.5
+251,Yes,Air Miles,Letter,High,1,No,Medium,1,1,5,Yes,1047.75
+264,Yes,Air Miles,Postcard,Medium,1,No,Low,4,1,4,No,1034
+278,Yes,Points,Postcard,High,2,No,Low,1,1,1,Yes,887.25
+282,Yes,Cash Back,Postcard,Low,1,Yes,Low,2,1,4,Yes,984
+286,Yes,Points,Postcard,Low,2,No,Low,4,1,3,Yes,881.25
+288,Yes,Cash Back,Letter,Low,2,No,Low,3,2,3,Yes,1107.5
+301,Yes,Cash Back,Postcard,High,1,No,Low,2,1,4,Yes,896.25
+313,Yes,Air Miles,Postcard,Medium,1,Yes,Medium,3,1,2,Yes,944.5
+321,Yes,Air Miles,Postcard,Medium,1,No,Low,1,1,4,Yes,916.5
+343,Yes,Points,Postcard,Low,1,No,Low,2,1,5,No,1735.25
+350,Yes,Points,Postcard,Medium,2,No,Low,1,1,4,Yes,992.25
+379,Yes,Points,Postcard,Medium,1,No,High,2,1,3,No,1028.75
+403,Yes,Cash Back,Postcard,Low,1,No,Low,2,1,4,No,1364.75
+413,Yes,Points,Postcard,Medium,2,No,Low,1,1,3,Yes,841.75
+424,Yes,Air Miles,Postcard,Medium,2,No,Low,1,1,4,No,1327.25
+448,Yes,Air Miles,Postcard,Low,1,Yes,Low,1,1,4,Yes,1034.75
+467,Yes,Cash Back,Letter,Medium,1,No,Low,3,1,4,No,938.25
+478,Yes,Air Miles,Postcard,Medium,2,No,High,2,1,3,Yes,1054.75
+495,Yes,Points,Postcard,Medium,1,No,High,1,1,2,Yes,612.75
+503,Yes,Points,Postcard,Low,1,No,Low,2,1,1,No,1215.75
+534,Yes,Cash Back,Postcard,Low,2,Yes,Low,2,1,3,Yes,1097.5
+556,Yes,Air Miles,Postcard,Medium,1,No,High,2,1,4,No,1070
+588,Yes,Points,Postcard,High,1,No,Low,2,1,2,Yes,1126.25
+606,Yes,Air Miles,Letter,High,2,Yes,Medium,1,1,4,Yes,175.75
+611,Yes,Points,Postcard,Low,1,Yes,Low,1,1,5,No,825.5
+619,Yes,Air Miles,Postcard,High,1,No,Low,1,2,5,Yes,259.25
+626,Yes,Air Miles,Postcard,High,1,No,Medium,2,1,3,No,985.75
+632,Yes,Points,Postcard,Medium,2,No,Low,2,1,5,Yes,955.75
+635,Yes,Air Miles,Postcard,Medium,1,No,Low,2,2,4,Yes,1124
+638,Yes,Air Miles,Postcard,Medium,1,No,Medium,1,1,5,Yes,1014.25
+640,Yes,Air Miles,Postcard,Medium,2,Yes,Low,2,1,3,Yes,1074.75
+654,Yes,Points,Postcard,High,1,No,Low,1,1,3,Yes,1015.75
+658,Yes,Points,Postcard,Low,1,No,Low,2,2,3,No,970.75
+661,Yes,Cash Back,Letter,Low,2,No,Low,2,1,4,Yes,1084
+662,Yes,Points,Postcard,Low,1,No,Low,2,1,4,Yes,178.5
+670,Yes,Points,Letter,Low,1,No,Low,2,1,6,Yes,140
+711,Yes,Cash Back,Postcard,Medium,1,No,High,3,1,3,No,978.75
+721,Yes,Points,Letter,Medium,1,No,Low,2,1,3,No,259.75
+733,Yes,Air Miles,Postcard,Medium,1,No,Low,3,1,4,No,1246
+739,Yes,Cash Back,Postcard,Medium,1,No,Low,3,1,3,Yes,1002.5
+748,Yes,Cash Back,Postcard,Low,1,No,Medium,1,1,3,Yes,998
+752,Yes,Air Miles,Letter,Low,2,No,Medium,2,1,3,Yes,1073
+792,Yes,Points,Postcard,Medium,2,No,Medium,3,1,4,Yes,1318.5
+805,Yes,Air Miles,Postcard,Low,1,No,Low,3,1,5,No,1106.25
+813,Yes,Cash Back,Postcard,Medium,1,No,Low,2,1,3,Yes,979.5
+865,Yes,Points,Postcard,Medium,1,No,Medium,2,2,2,Yes,1380
+874,Yes,Points,Postcard,Medium,1,No,Low,2,1,4,No,812.25
+895,Yes,Air Miles,Postcard,Medium,1,No,Low,1,1,2,Yes,237
+897,Yes,Air Miles,Postcard,Low,1,No,Low,1,1,3,Yes,1076.5
+904,Yes,Points,Letter,Medium,1,No,Low,2,1,4,No,734.5
+918,Yes,Points,Postcard,Low,1,No,Medium,1,1,3,Yes,1052.5
+973,Yes,Air Miles,Postcard,Medium,1,No,Low,1,1,2,Yes,1053.5
+992,Yes,Points,Postcard,Medium,1,No,Low,4,1,4,No,1294.5
+1000,Yes,Points,Postcard,Medium,1,No,Low,3,1,4,Yes,996.75
+1047,Yes,Air Miles,Postcard,Medium,1,Yes,Medium,1,1,3,Yes,808
+1063,Yes,Air Miles,Postcard,High,1,Yes,Low,1,1,4,Yes,1069.75
+1067,Yes,Points,Letter,Low,2,Yes,Low,1,1,6,No,1105
+1105,Yes,Air Miles,Postcard,Medium,1,No,High,2,1,3,Yes,1185
+1204,Yes,Points,Letter,Low,1,Yes,Low,3,1,4,Yes,1086.75
+1215,Yes,Air Miles,Postcard,Medium,1,Yes,High,1,1,4,Yes,1102.75
+1222,Yes,Cash Back,Postcard,Low,1,No,Low,1,1,3,No,943.75
+1254,Yes,Air Miles,Letter,Low,2,No,Medium,2,2,4,No,332
+1266,Yes,Points,Letter,Medium,2,Yes,Medium,1,1,3,No,988.75
+1267,Yes,Air Miles,Letter,High,1,Yes,Low,2,2,4,Yes,1322.5
+1275,Yes,Points,Postcard,Low,1,No,Low,3,1,4,No,677.5
+1286,Yes,Cash Back,Postcard,Medium,1,No,Low,1,1,4,Yes,313.75
+1287,Yes,Air Miles,Postcard,Medium,2,No,Medium,1,1,4,Yes,702.25
+1289,Yes,Cash Back,Postcard,Low,2,No,Low,2,1,6,Yes,1010
+1297,Yes,Cash Back,Postcard,Low,1,Yes,Low,1,1,3,Yes,204.75
+1300,Yes,Air Miles,Letter,Medium,2,No,Low,1,1,4,Yes,1406.5
+1301,Yes,Cash Back,Postcard,Low,1,No,Low,1,1,3,Yes,288.5
+1313,Yes,Points,Postcard,Low,1,No,High,1,1,3,No,169.5
+1348,Yes,Air Miles,Postcard,Medium,1,No,Medium,2,1,4,Yes,980
+1387,Yes,Points,Postcard,Medium,2,No,Low,2,1,3,No,1308.75
+1399,Yes,Cash Back,Postcard,Low,2,No,Low,1,2,4,Yes,241.75
+1417,Yes,Points,Letter,High,2,No,Low,3,2,5,Yes,1140
+1425,Yes,Cash Back,Postcard,Medium,2,No,High,2,1,4,Yes,195.5
+1438,Yes,Points,Postcard,Low,1,No,Medium,3,2,3,Yes,1058
+1452,Yes,Air Miles,Letter,Medium,1,No,Medium,2,1,3,Yes,251.5
+1494,Yes,Air Miles,Postcard,Low,1,No,Medium,2,1,3,No,1081.25
+1496,Yes,Air Miles,Postcard,Medium,1,No,Medium,3,1,2,Yes,209
+1529,Yes,Air Miles,Letter,Medium,1,Yes,High,1,1,2,Yes,947
+1547,Yes,Air Miles,Letter,High,1,No,Medium,1,1,3,Yes,1399
+1571,Yes,Air Miles,Letter,Low,1,Yes,Low,2,2,3,No,727.5
+1586,Yes,Air Miles,Postcard,Low,1,Yes,High,2,1,3,Yes,923.75
+1595,Yes,Points,Letter,High,1,No,High,2,1,4,Yes,930.5
+1619,Yes,Air Miles,Postcard,Low,1,No,High,1,1,5,Yes,876
+1659,Yes,Points,Letter,Medium,1,No,Low,1,1,1,No,1420.75
+1683,Yes,Air Miles,Postcard,Low,1,No,Medium,1,1,5,Yes,1066.5
+1704,Yes,Air Miles,Letter,Medium,2,No,Medium,2,1,2,Yes,761
+1722,Yes,Cash Back,Letter,Low,1,No,Low,3,1,3,Yes,943
+1728,Yes,Air Miles,Postcard,Low,1,No,Medium,4,1,4,Yes,1003
+1738,Yes,Air Miles,Postcard,Low,1,No,Medium,1,2,3,No,806.25
+1745,Yes,Air Miles,Postcard,High,1,No,Medium,1,1,4,No,978.25
+1759,Yes,Points,Letter,Medium,1,No,Low,1,1,2,Yes,888.75
+1761,Yes,Cash Back,Postcard,Medium,1,No,Medium,2,1,3,No,1609.75
+1767,Yes,Air Miles,Letter,Medium,1,No,Medium,2,1,5,No,787.25
+1777,Yes,Points,Postcard,High,1,Yes,Low,2,1,2,Yes,1310.25
+1785,Yes,Air Miles,Postcard,Medium,1,No,Low,2,1,3,Yes,252.75
+1815,Yes,Air Miles,Letter,Low,1,No,Medium,2,2,5,No,897
+1820,Yes,Points,Postcard,Medium,1,No,Medium,3,1,3,Yes,1000.5
+1835,Yes,Air Miles,Postcard,Low,1,No,Low,3,1,4,Yes,992
+1875,Yes,Points,Postcard,Medium,1,No,Low,2,1,4,No,1066.25
+1896,Yes,Cash Back,Postcard,Medium,1,No,Low,2,1,3,Yes,1150.75
+1913,Yes,Cash Back,Postcard,Medium,1,No,Medium,3,1,3,No,1073
+1931,Yes,Air Miles,Postcard,Medium,2,No,Low,1,1,5,Yes,949.25
+1961,Yes,Air Miles,Letter,Low,1,No,Low,1,1,3,No,968.75
+1967,Yes,Air Miles,Postcard,Medium,1,No,Medium,2,1,3,Yes,1275.5
+1970,Yes,Cash Back,Postcard,Medium,1,No,Low,2,1,3,Yes,710.25
+1972,Yes,Air Miles,Letter,Medium,1,No,High,1,1,4,Yes,241.25
+1982,Yes,Points,Postcard,Low,1,No,Low,3,2,3,No,1156
+1987,Yes,Cash Back,Postcard,High,1,No,Low,2,1,2,No,1234.75
+2006,Yes,Points,Postcard,Medium,1,No,Low,2,2,4,Yes,1033
+2021,Yes,Air Miles,Letter,Medium,1,Yes,Low,1,1,1,No,911.5
+2023,Yes,Air Miles,Postcard,Medium,2,No,Low,3,1,3,Yes,1288.75
+2048,Yes,Points,Letter,Medium,1,Yes,Low,2,1,3,Yes,1033.75
+2062,Yes,Points,Postcard,Low,1,No,Low,3,2,2,No,928
+2067,Yes,Air Miles,Postcard,Low,1,No,Medium,1,1,4,Yes,1045.75
+2100,Yes,Air Miles,Letter,Low,1,No,Medium,2,1,3,No,106
+2118,Yes,Air Miles,Postcard,Low,1,No,Low,1,1,4,Yes,1314.5
+2121,Yes,Air Miles,Postcard,High,2,No,Medium,3,2,5,Yes,660.25
+2122,Yes,Air Miles,Postcard,Low,1,No,Medium,1,1,4,No,210.75
+2124,Yes,Points,Postcard,Low,1,No,Low,2,1,5,Yes,1220.75
+2141,Yes,Points,Letter,High,1,No,Low,1,1,4,Yes,986
+2158,Yes,Points,Letter,Medium,1,No,Low,1,2,3,Yes,241.25
+2187,Yes,Points,Postcard,Medium,2,No,High,2,1,2,No,1049
+2201,Yes,Air Miles,Postcard,Low,1,No,Medium,2,1,5,Yes,1304.75
+2204,Yes,Cash Back,Postcard,Low,2,No,Low,4,1,4,Yes,153
+2218,Yes,Points,Letter,Low,1,No,Low,2,1,3,No,1481.5
+2224,Yes,Points,Letter,Medium,2,No,Medium,1,1,3,No,1046.25
+2229,Yes,Points,Letter,Low,1,No,Low,1,1,2,Yes,1009.5
+2249,Yes,Points,Letter,Medium,1,No,Low,3,1,3,Yes,813
+2255,Yes,Air Miles,Postcard,Medium,1,No,Medium,3,2,3,Yes,886
+2286,Yes,Cash Back,Postcard,Medium,1,No,Low,1,1,4,No,799.5
+2303,Yes,Points,Postcard,Medium,2,No,Medium,3,1,6,Yes,1301
+2350,Yes,Cash Back,Postcard,Low,1,No,Low,1,2,4,Yes,1466.25
+2378,Yes,Points,Postcard,High,1,No,Low,2,1,5,Yes,260.75
+2382,Yes,Cash Back,Letter,High,1,No,Low,2,1,4,Yes,1146.75
+2412,Yes,Air Miles,Letter,Medium,1,No,Medium,2,1,2,Yes,1409.75
+2431,Yes,Air Miles,Postcard,Low,1,No,Low,2,2,3,Yes,1401.25
+2449,Yes,Points,Postcard,Low,1,No,Low,1,2,4,No,1053
+2491,Yes,Air Miles,Postcard,Medium,1,No,Low,3,1,3,Yes,1158
+2496,Yes,Air Miles,Postcard,Low,2,No,Low,2,1,4,Yes,722.75
+2530,Yes,Cash Back,Postcard,High,1,No,Low,3,1,5,Yes,232.25
+2542,Yes,Cash Back,Postcard,Low,2,No,Low,2,1,3,Yes,1083.5
+2558,Yes,Air Miles,Letter,Low,1,No,Medium,2,1,3,Yes,986
+2568,Yes,Air Miles,Letter,Medium,1,No,Low,1,2,2,No,849.25
+2610,Yes,Cash Back,Postcard,Medium,1,Yes,Medium,2,1,1,No,758.5
+2625,Yes,Air Miles,Postcard,Low,1,Yes,High,2,1,1,No,201.75
+2628,Yes,Points,Letter,High,2,No,Medium,1,1,5,Yes,1766.5
+2629,Yes,Cash Back,Letter,Low,1,No,Low,3,1,4,No,948.5
+2633,Yes,Air Miles,Postcard,Medium,2,Yes,High,2,1,3,Yes,1193.5
+2647,Yes,Cash Back,Postcard,Medium,1,No,Low,2,1,2,Yes,629.75
+2653,Yes,Air Miles,Postcard,Medium,1,No,High,2,1,4,Yes,949.5
+2654,Yes,Points,Postcard,Low,1,No,Medium,2,1,3,Yes,1071.5
+2684,Yes,Air Miles,Letter,Low,1,No,High,2,1,4,Yes,867
+2685,Yes,Points,Postcard,Medium,1,No,Low,2,1,4,No,1215.5
+2715,Yes,Points,Letter,High,1,Yes,Medium,2,1,2,No,1210.75
+2719,Yes,Points,Postcard,Low,1,Yes,Medium,1,2,5,No,306.75
+2731,Yes,Points,Postcard,Medium,2,No,Low,1,1,3,Yes,977.5
+2755,Yes,Air Miles,Letter,Medium,1,No,Low,2,1,3,Yes,1191.75
+2761,Yes,Points,Postcard,Medium,1,No,Low,1,2,3,Yes,1079
+2763,Yes,Air Miles,Letter,Medium,1,No,Medium,1,2,3,No,962.75
+2768,Yes,Cash Back,Postcard,Low,1,No,Medium,4,1,5,Yes,318.5
+2796,Yes,Cash Back,Postcard,Medium,1,No,Low,1,1,3,Yes,1242.5
+2802,Yes,Points,Letter,High,1,No,Low,2,2,3,Yes,1193
+2824,Yes,Points,Letter,Medium,2,No,Low,2,1,3,Yes,1227.25
+2825,Yes,Points,Postcard,Low,1,No,Low,2,1,3,Yes,1321
+2838,Yes,Air Miles,Letter,Low,2,No,Low,2,1,2,Yes,1066.75
+2847,Yes,Air Miles,Postcard,Low,1,Yes,High,2,2,3,No,1736
+2853,Yes,Points,Postcard,Medium,1,No,Low,1,2,2,No,1052.75
+2854,Yes,Points,Postcard,Medium,1,No,Low,2,1,3,No,680.5
+2870,Yes,Points,Postcard,Low,1,No,Medium,2,2,4,No,1198.75
+2898,Yes,Air Miles,Postcard,Low,2,No,Low,3,1,4,No,961.5
+2935,Yes,Points,Letter,High,1,No,Low,3,1,4,Yes,1350.75
+2955,Yes,Points,Postcard,Low,2,No,High,1,1,4,Yes,686.25
+2960,Yes,Air Miles,Letter,Medium,1,No,Low,2,2,3,Yes,1154
+2962,Yes,Air Miles,Postcard,Low,1,Yes,Medium,1,1,5,No,1058
+2965,Yes,Points,Postcard,Medium,1,No,Low,3,1,3,No,179
+2970,Yes,Air Miles,Letter,Medium,1,No,High,2,2,3,Yes,271.75
+3034,Yes,Air Miles,Letter,Medium,2,No,Low,3,1,4,No,1054
+3036,Yes,Points,Postcard,Low,1,No,Low,4,1,3,Yes,1065.75
+3049,Yes,Air Miles,Postcard,Medium,1,No,Low,1,1,3,Yes,1166.5
+3051,Yes,Cash Back,Postcard,Low,1,No,Low,2,1,3,No,1394.25
+3070,Yes,Air Miles,Postcard,High,1,No,Low,2,1,1,Yes,1033.75
+3071,Yes,Air Miles,Postcard,Low,3,No,Medium,2,1,4,Yes,
+3091,Yes,Air Miles,Letter,Medium,1,No,Low,2,1,4,No,1128.25
+3097,Yes,Air Miles,Postcard,Low,2,No,Low,2,1,4,No,1173.25
+3145,Yes,Air Miles,Letter,High,1,Yes,High,4,1,4,Yes,270
+3166,Yes,Cash Back,Postcard,Medium,1,No,Low,1,2,3,No,1034
+3194,Yes,Cash Back,Postcard,Low,1,Yes,Low,2,1,3,No,716.75
+3206,Yes,Cash Back,Postcard,Medium,1,Yes,Low,1,1,2,No,952
+3228,Yes,Air Miles,Letter,Low,1,No,Medium,3,1,4,Yes,181
+3244,Yes,Cash Back,Letter,Medium,1,No,Low,2,2,3,No,898.5
+3333,Yes,Points,Postcard,High,1,No,Medium,3,1,4,Yes,1017
+3349,Yes,Points,Postcard,Low,2,No,Medium,2,1,3,No,1145.5
+3351,Yes,Air Miles,Letter,Low,1,No,Medium,2,1,5,Yes,879
+3375,Yes,Air Miles,Postcard,Medium,1,No,Low,1,1,4,Yes,866.5
+3392,Yes,Points,Postcard,Medium,2,No,Low,1,1,3,No,1138.75
+3401,Yes,Points,Postcard,Low,1,No,Low,2,1,3,Yes,1026.5
+3411,Yes,Air Miles,Postcard,Low,1,No,Low,1,2,2,Yes,301.25
+3419,Yes,Air Miles,Letter,Medium,1,No,Low,1,1,2,No,1274.25
+3460,Yes,Points,Postcard,Medium,1,No,Low,1,1,3,No,1027
+3480,Yes,Air Miles,Postcard,Low,1,No,Low,2,1,4,No,291.25
+3492,Yes,Cash Back,Postcard,High,1,Yes,Low,2,2,6,Yes,1108.75
+3568,Yes,Cash Back,Letter,Low,2,Yes,Low,3,1,3,Yes,808.5
+3585,Yes,Points,Postcard,Low,1,No,High,2,1,3,Yes,1221
+3613,Yes,Air Miles,Postcard,Medium,2,No,Medium,2,1,2,Yes,1030
+3634,Yes,Points,Postcard,Low,1,No,Low,3,1,1,Yes,649
+3662,Yes,Points,Letter,Medium,1,No,Medium,2,1,3,Yes,984
+3667,Yes,Points,Letter,High,1,No,Low,2,2,2,Yes,1763
+3671,Yes,Points,Postcard,Medium,1,No,Medium,2,1,2,Yes,158.5
+3687,Yes,Points,Postcard,Medium,2,No,Medium,2,1,4,Yes,1040
+3689,Yes,Points,Postcard,Low,1,No,Medium,1,1,3,Yes,951.75
+3703,Yes,Points,Postcard,Medium,1,No,Low,1,1,4,No,1098.75
+3705,Yes,Air Miles,Postcard,Medium,1,No,Low,1,1,4,Yes,1289
+3727,Yes,Air Miles,Postcard,Low,1,No,Low,4,1,3,Yes,1247
+3741,Yes,Air Miles,Letter,High,1,No,Low,2,1,4,Yes,1295.5
+3754,Yes,Air Miles,Postcard,Low,1,No,Medium,1,1,3,Yes,1366
+3772,Yes,Air Miles,Postcard,High,1,No,Medium,2,1,5,Yes,1129.75
+3775,Yes,Points,Postcard,Medium,1,No,High,3,1,3,No,946.25
+3778,Yes,Points,Postcard,Medium,2,No,Medium,1,1,3,Yes,1000.5
+3816,Yes,Points,Letter,High,2,No,Low,1,1,2,No,231.75
+3823,Yes,Cash Back,Postcard,Medium,1,No,Low,3,1,4,No,123.5
+3832,Yes,Air Miles,Postcard,Low,2,No,Medium,2,2,5,No,234.75
+3866,Yes,Points,Postcard,Low,1,No,Medium,2,1,3,Yes,1157.25
+3872,Yes,Air Miles,Postcard,Low,2,No,Low,1,2,2,No,980.75
+3875,Yes,Cash Back,Postcard,Medium,1,No,Low,1,1,4,No,930
+3900,Yes,Air Miles,Postcard,Low,1,No,Low,2,1,4,No,1205.25
+3915,Yes,Points,Letter,High,1,No,Low,1,1,1,Yes,212
+3958,Yes,Points,Letter,Medium,1,Yes,Medium,1,1,4,No,1166
+4022,Yes,Air Miles,Postcard,Low,1,No,Medium,2,1,4,Yes,1136.5
+4039,Yes,Air Miles,Postcard,Medium,2,No,Low,2,1,4,Yes,1264.5
+4052,Yes,Cash Back,Postcard,Medium,1,No,Low,2,2,6,Yes,1242.75
+4060,Yes,Points,Postcard,Low,1,No,Low,1,1,4,Yes,205.25
+4090,Yes,Air Miles,Postcard,Medium,1,No,High,2,2,3,No,931.5
+4097,Yes,Points,Postcard,High,1,No,Low,1,1,4,Yes,834.5
+4122,Yes,Cash Back,Postcard,Medium,1,No,Low,1,1,2,Yes,1314.5
+4159,Yes,Points,Postcard,Low,1,No,Low,3,2,3,Yes,860.5
+4161,Yes,Air Miles,Postcard,Medium,1,No,Medium,2,1,5,Yes,1126.5
+4183,Yes,Air Miles,Postcard,High,1,No,Medium,2,1,3,Yes,1466.5
+4189,Yes,Air Miles,Postcard,Low,1,No,Medium,1,1,3,Yes,1126.25
+4210,Yes,Air Miles,Letter,Medium,1,No,Low,3,2,3,No,230.25
+4222,Yes,Cash Back,Postcard,Medium,1,No,Low,1,1,3,No,298.5
+4225,Yes,Points,Postcard,High,1,No,Low,3,2,4,Yes,75.75
+4231,Yes,Points,Postcard,Low,1,No,Medium,4,1,4,Yes,638
+4259,Yes,Cash Back,Postcard,Low,1,No,Low,3,1,3,No,274.25
+4268,Yes,Air Miles,Postcard,High,2,No,Low,3,1,3,Yes,832.5
+4286,Yes,Air Miles,Postcard,High,1,No,Low,1,1,4,No,1647.25
+4306,Yes,Air Miles,Postcard,High,1,No,High,2,1,5,No,1016.5
+4315,Yes,Air Miles,Postcard,Low,1,No,High,2,1,4,Yes,985
+4320,Yes,Air Miles,Postcard,High,1,No,High,2,1,3,No,1143.25
+4321,Yes,Air Miles,Letter,Low,2,No,High,2,1,5,Yes,1203
+4400,Yes,Cash Back,Postcard,Low,1,No,Low,3,2,5,Yes,1054.75
+4420,Yes,Cash Back,Letter,Low,1,No,Medium,2,1,3,Yes,975
+4450,Yes,Points,Postcard,Medium,1,No,Medium,1,2,4,No,1199.5
+4465,Yes,Points,Letter,Low,2,No,Low,1,1,4,Yes,628.75
+4480,Yes,Air Miles,Letter,Low,1,No,Low,1,1,3,No,1039.5
+4505,Yes,Points,Letter,Medium,1,No,Low,2,1,3,Yes,1044.75
+4510,Yes,Cash Back,Postcard,Low,2,No,Low,1,1,4,No,1066.75
+4535,Yes,Cash Back,Letter,Medium,1,No,Low,1,1,4,Yes,935
+4544,Yes,Points,Letter,Medium,1,No,Low,1,2,5,No,999
+4564,Yes,Air Miles,Postcard,High,1,No,High,1,1,4,Yes,121
+4571,Yes,Air Miles,Letter,Low,1,No,Low,2,1,4,Yes,358.5
+4608,Yes,Points,Postcard,Medium,2,No,Low,3,1,4,No,1008.5
+4609,Yes,Air Miles,Postcard,Low,1,Yes,High,2,1,4,Yes,1390.75
+4610,Yes,Air Miles,Postcard,Medium,1,Yes,Low,2,1,2,Yes,299.5
+4631,Yes,Air Miles,Postcard,Low,1,No,Medium,2,1,3,Yes,268
+4645,Yes,Air Miles,Postcard,Medium,1,No,Low,1,1,4,Yes,781
+4660,Yes,Points,Letter,Medium,1,No,Medium,2,1,2,Yes,1072.25
+4674,Yes,Points,Postcard,Medium,1,No,High,1,1,4,Yes,279.25
+4685,Yes,Air Miles,Postcard,Medium,1,No,Medium,2,1,2,Yes,997.5
+4696,Yes,Air Miles,Postcard,High,1,No,Medium,3,1,2,Yes,1297.5
+4704,Yes,Air Miles,Letter,Medium,1,No,Low,2,2,3,Yes,946
+4733,Yes,Air Miles,Postcard,Medium,2,No,Low,2,1,2,Yes,1072
+4734,Yes,Air Miles,Postcard,Medium,1,No,Medium,2,2,5,No,921.5
+4763,Yes,Cash Back,Letter,Low,1,No,Medium,1,1,6,Yes,213
+4780,Yes,Air Miles,Postcard,Low,1,No,Low,2,1,3,Yes,1021.5
+4796,Yes,Points,Postcard,High,1,No,Low,3,1,4,No,1277.25
+4808,Yes,Air Miles,Postcard,High,1,No,Low,2,1,3,No,1274
+4832,Yes,Cash Back,Letter,Medium,1,No,Low,1,1,5,No,1162
+4883,Yes,Points,Postcard,Medium,2,No,Low,1,1,6,Yes,267.25
+4906,Yes,Points,Letter,Low,1,No,Medium,2,1,5,No,1116.75
+4944,Yes,Air Miles,Postcard,Low,1,Yes,Low,1,1,4,Yes,1285.5
+4967,Yes,Air Miles,Postcard,High,1,No,Low,4,2,4,No,1056.75
+5024,Yes,Points,Postcard,Medium,1,No,High,2,1,3,Yes,334
+5052,Yes,Cash Back,Postcard,Low,1,No,Low,2,2,3,Yes,981.75
+5061,Yes,Air Miles,Postcard,Low,1,No,Low,2,1,4,Yes,942
+5094,Yes,Cash Back,Letter,High,1,No,Low,2,1,4,Yes,872.25
+5113,Yes,Air Miles,Postcard,Low,1,No,Low,3,1,4,No,321.5
+5121,Yes,Points,Postcard,Low,2,No,Low,2,1,5,Yes,1238.5
+5130,Yes,Points,Postcard,High,1,No,Medium,2,2,3,Yes,1111.5
+5141,Yes,Air Miles,Postcard,Low,1,No,Low,1,1,5,Yes,173.75
+5146,Yes,Points,Postcard,High,1,No,Low,1,1,1,No,767.5
+5155,Yes,Points,Postcard,Medium,1,Yes,Low,2,2,4,Yes,1062.5
+5165,Yes,Air Miles,Postcard,Medium,1,No,Low,3,1,4,Yes,1055.25
+5227,Yes,Air Miles,Postcard,Medium,1,No,High,3,1,4,Yes,1195.75
+5236,Yes,Air Miles,Postcard,High,1,No,Low,3,1,4,No,939.5
+5239,Yes,Cash Back,Postcard,High,3,No,Medium,1,1,4,No,980.75
+5252,Yes,Air Miles,Letter,High,1,No,Medium,1,1,3,Yes,291.5
+5302,Yes,Points,Letter,Low,1,No,Medium,1,2,3,Yes,801.75
+5406,Yes,Air Miles,Postcard,Medium,1,Yes,Low,1,1,2,No,1236.25
+5414,Yes,Points,Letter,Medium,2,No,High,3,1,4,Yes,1054.25
+5459,Yes,Air Miles,Postcard,Medium,1,Yes,High,2,1,2,No,1298.75
+5475,Yes,Cash Back,Postcard,Low,1,No,Low,2,1,3,Yes,1094.25
+5476,Yes,Air Miles,Postcard,Low,1,No,Low,2,1,2,No,1726.5
+5479,Yes,Air Miles,Postcard,Medium,1,No,Low,1,1,4,Yes,788.25
+5483,Yes,Points,Postcard,Medium,1,No,Low,1,1,4,No,960.25
+5488,Yes,Cash Back,Postcard,Medium,2,No,Low,2,1,5,No,1063
+5522,Yes,Points,Letter,Low,2,No,Low,1,1,3,No,1172
+5528,Yes,Air Miles,Postcard,Medium,1,No,Low,3,1,5,Yes,1005.5
+5542,Yes,Air Miles,Postcard,Low,1,No,Low,2,1,4,No,168.5
+5549,Yes,Air Miles,Postcard,Low,2,No,Low,1,2,2,No,724.25
+5550,Yes,Air Miles,Postcard,Medium,2,Yes,High,2,2,4,No,1242.5
+5556,Yes,Air Miles,Postcard,High,1,No,Low,2,1,5,No,1025.5
+5568,Yes,Cash Back,Postcard,Medium,1,No,Medium,2,1,5,No,972.25
+5587,Yes,Air Miles,Postcard,Medium,1,Yes,Medium,1,1,5,No,806.25
+5602,Yes,Points,Postcard,Medium,1,No,Low,2,2,4,No,381
+5661,Yes,Air Miles,Letter,Medium,1,No,Low,1,1,5,Yes,1073.5
+5673,Yes,Air Miles,Postcard,High,1,Yes,Low,3,1,2,Yes,986.25
+5702,Yes,Air Miles,Postcard,Low,1,No,Low,2,1,1,No,276
+5744,Yes,Cash Back,Postcard,Low,1,No,Low,2,2,3,No,1436.25
+5753,Yes,Air Miles,Letter,Medium,1,No,Medium,3,1,3,Yes,673.5
+5825,Yes,Air Miles,Postcard,Medium,1,No,Medium,3,1,5,Yes,1227.25
+5839,Yes,Air Miles,Postcard,Medium,1,No,Medium,2,1,4,Yes,169.25
+5841,Yes,Cash Back,Postcard,Medium,1,No,Low,1,1,3,Yes,1123.5
+5845,Yes,Points,Postcard,Low,1,Yes,High,2,1,2,Yes,684
+5846,Yes,Cash Back,Postcard,Medium,1,No,Low,2,1,5,Yes,905.5
+5881,Yes,Air Miles,Postcard,Low,1,No,Medium,1,1,3,Yes,1315.25
+5883,Yes,Air Miles,Letter,High,1,No,Medium,2,1,5,No,1151
+5885,Yes,Air Miles,Letter,High,1,No,Low,2,1,3,Yes,886.75
+5904,Yes,Points,Postcard,High,1,No,Medium,1,1,2,Yes,1033.5
+5916,Yes,Air Miles,Postcard,High,1,No,Low,3,2,2,No,1197.75
+5918,Yes,Air Miles,Postcard,Medium,1,Yes,Medium,3,1,3,Yes,1235.5
+5919,Yes,Points,Letter,Low,1,No,Low,3,1,3,No,321.5
+5921,Yes,Air Miles,Postcard,Medium,1,No,Low,3,1,3,Yes,1143.5
+5945,Yes,Air Miles,Postcard,High,1,No,Low,2,1,3,Yes,1034.25
+5949,Yes,Air Miles,Letter,Low,1,Yes,Low,2,1,6,Yes,1045
+5991,Yes,Points,Postcard,Medium,1,No,Low,1,1,4,No,776.75
+6036,Yes,Points,Postcard,High,1,No,Medium,1,1,4,No,1028.25
+6043,Yes,Air Miles,Postcard,Low,1,No,High,2,1,3,No,892.5
+6060,Yes,Air Miles,Letter,Low,1,No,Low,3,1,2,Yes,873.5
+6104,Yes,Points,Postcard,Medium,1,No,Low,1,2,5,Yes,1178.5
+6122,Yes,Air Miles,Postcard,Low,1,No,Low,2,2,3,No,973.5
+6161,Yes,Air Miles,Letter,Low,1,No,Low,3,1,3,No,943
+6184,Yes,Points,Postcard,Medium,3,No,Medium,2,1,3,No,215.25
+6214,Yes,Points,Letter,High,1,Yes,Low,1,1,3,Yes,1001.5
+6218,Yes,Points,Postcard,Medium,1,No,Low,2,1,3,Yes,1499
+6224,Yes,Cash Back,Letter,High,1,No,Low,2,1,6,No,1073
+6243,Yes,Air Miles,Letter,High,1,No,Low,2,2,5,Yes,1242
+6258,Yes,Points,Letter,Medium,1,No,High,1,2,3,Yes,1293
+6272,Yes,Air Miles,Postcard,Medium,1,No,Medium,3,1,3,Yes,685.75
+6287,Yes,Cash Back,Postcard,Medium,2,No,Low,2,1,3,No,1032.75
+6292,Yes,Air Miles,Postcard,Low,1,No,High,4,1,4,Yes,929
+6316,Yes,Points,Postcard,Medium,1,No,Low,1,1,2,Yes,987.75
+6323,Yes,Air Miles,Postcard,High,2,No,Low,1,2,4,Yes,1351.75
+6334,Yes,Air Miles,Letter,Medium,1,No,Medium,4,1,3,No,1134.25
+6336,Yes,Cash Back,Postcard,Low,1,No,High,3,1,4,Yes,870.5
+6344,Yes,Air Miles,Postcard,Medium,2,No,High,2,1,3,No,1148
+6358,Yes,Air Miles,Postcard,Low,1,No,Low,2,2,5,Yes,1016.75
+6367,Yes,Air Miles,Postcard,Medium,2,No,Low,1,1,5,No,317.5
+6374,Yes,Air Miles,Postcard,Medium,1,Yes,Medium,1,1,5,No,1284.25
+6378,Yes,Air Miles,Postcard,Medium,2,No,Medium,1,1,2,No,1087.75
+6416,Yes,Points,Letter,Medium,1,No,Low,2,1,4,Yes,1195.25
+6422,Yes,Cash Back,Postcard,Low,1,No,Low,1,1,4,Yes,712.5
+6427,Yes,Points,Postcard,Medium,2,No,Low,3,1,2,Yes,1113.25
+6448,Yes,Air Miles,Letter,Medium,1,No,Low,3,1,1,No,716.75
+6470,Yes,Air Miles,Letter,Medium,1,No,Low,1,1,2,Yes,886.25
+6477,Yes,Points,Postcard,High,1,No,Medium,2,2,5,Yes,325.25
+6495,Yes,Points,Letter,Medium,1,No,Low,1,1,2,Yes,957.5
+6497,Yes,Cash Back,Postcard,Medium,2,Yes,Low,1,1,3,No,1163.75
+6501,Yes,Points,Postcard,Low,2,No,Medium,1,1,3,No,1180.75
+6516,Yes,Cash Back,Postcard,Low,1,Yes,Medium,2,1,2,Yes,1028.75
+6535,Yes,Cash Back,Postcard,Medium,2,No,Low,2,2,5,No,209
+6544,Yes,Points,Letter,Low,1,No,Low,1,1,2,Yes,1171.75
+6547,Yes,Air Miles,Postcard,Medium,1,Yes,Low,1,1,4,Yes,997.5
+6555,Yes,Air Miles,Postcard,Low,1,No,Low,1,1,3,No,1190.25
+6561,Yes,Air Miles,Letter,High,1,No,Low,2,1,3,Yes,668
+6579,Yes,Cash Back,Postcard,Low,1,Yes,High,1,1,5,Yes,1083.75
+6581,Yes,Cash Back,Postcard,High,2,No,Low,3,1,3,No,361.25
+6589,Yes,Points,Postcard,Low,2,No,Low,1,1,4,Yes,981.75
+6613,Yes,Points,Postcard,Medium,1,No,Low,1,1,3,No,803.75
+6661,Yes,Cash Back,Letter,Medium,2,No,Medium,2,1,2,Yes,992
+6733,Yes,Cash Back,Postcard,Medium,1,No,Medium,1,1,4,Yes,921.75
+6754,Yes,Cash Back,Postcard,Low,1,No,Low,4,1,3,Yes,1145.5
+6805,Yes,Air Miles,Letter,Medium,1,No,Low,1,1,4,Yes,867.75
+6808,Yes,Air Miles,Postcard,High,1,No,Low,1,1,4,Yes,1013.25
+6823,Yes,Points,Letter,Medium,1,Yes,Low,4,1,2,No,82.5
+6880,Yes,Cash Back,Postcard,Medium,2,No,Low,2,2,4,Yes,1114.75
+6883,Yes,Air Miles,Postcard,Medium,1,No,Medium,1,2,6,Yes,1325
+6885,Yes,Points,Letter,Low,2,No,Low,1,2,3,No,945.25
+6919,Yes,Cash Back,Postcard,Medium,1,Yes,Low,2,1,1,Yes,988
+6928,Yes,Air Miles,Postcard,High,3,No,Medium,2,2,5,Yes,976.25
+6958,Yes,Points,Postcard,High,2,No,Medium,1,1,1,Yes,1013.25
+6976,Yes,Points,Letter,Low,1,No,Low,1,1,3,Yes,897.5
+7044,Yes,Air Miles,Postcard,Low,1,No,Medium,2,1,4,No,631.5
+7059,Yes,Cash Back,Postcard,Medium,1,No,Low,2,1,1,Yes,1091.5
+7062,Yes,Points,Letter,Medium,1,Yes,Low,2,1,3,No,1010.5
+7077,Yes,Cash Back,Postcard,Low,1,No,High,1,1,5,Yes,962.75
+7095,Yes,Points,Postcard,Medium,1,No,Low,3,3,3,Yes,1726
+7119,Yes,Air Miles,Postcard,Low,1,No,Medium,4,1,6,Yes,760.25
+7122,Yes,Cash Back,Postcard,Low,1,No,Low,3,2,2,Yes,1159.5
+7138,Yes,Air Miles,Letter,Low,1,No,Low,2,1,2,No,220.25
+7164,Yes,Cash Back,Postcard,Low,1,No,Low,2,1,3,Yes,1306.25
+7183,Yes,Points,Postcard,High,2,Yes,Low,2,1,3,No,1220.25
+7186,Yes,Air Miles,Postcard,Medium,1,No,Medium,1,2,4,Yes,1173
+7208,Yes,Air Miles,Postcard,Medium,2,Yes,High,2,1,3,Yes,732.5
+7212,Yes,Air Miles,Postcard,Low,2,No,High,3,1,4,No,1041
+7226,Yes,Air Miles,Postcard,Medium,1,Yes,Medium,1,1,2,Yes,784.25
+7231,Yes,Points,Postcard,Medium,1,No,Low,2,1,1,Yes,940.75
+7271,Yes,Cash Back,Postcard,Low,1,No,Medium,1,2,3,Yes,1164.75
+7279,Yes,Cash Back,Postcard,Low,1,No,Low,3,1,4,Yes,952.75
+7302,Yes,Points,Postcard,Medium,1,No,Low,3,1,3,Yes,1146.5
+7339,Yes,Air Miles,Letter,Medium,2,No,Medium,1,1,2,Yes,767.5
+7361,Yes,Cash Back,Postcard,Low,3,No,High,1,1,2,No,992.75
+7419,Yes,Points,Postcard,Medium,1,No,Medium,1,1,2,No,685.25
+7483,Yes,Points,Letter,High,2,No,Low,1,2,3,Yes,643
+7489,Yes,Points,Letter,Medium,1,No,High,1,2,3,Yes,277.5
+7508,Yes,Air Miles,Letter,Low,2,No,Low,2,1,1,Yes,301.75
+7514,Yes,Points,Postcard,High,1,No,High,2,1,4,Yes,1067.5
+7554,Yes,Air Miles,Postcard,Medium,1,No,Low,2,1,5,No,1131.25
+7593,Yes,Air Miles,Postcard,Medium,1,No,Low,1,1,4,No,1240.5
+7598,Yes,Points,Postcard,Low,2,No,Medium,3,1,1,Yes,740.25
+7617,Yes,Air Miles,Postcard,Low,1,Yes,Low,1,1,3,No,1183.75
+7623,Yes,Points,Postcard,Medium,1,No,Medium,2,1,3,Yes,1152
+7635,Yes,Points,Postcard,Medium,1,No,Low,3,2,2,Yes,1239
+7647,Yes,Cash Back,Postcard,Low,2,No,Medium,3,1,3,Yes,1038
+7657,Yes,Air Miles,Postcard,Medium,1,No,Low,3,1,3,Yes,1315.25
+7678,Yes,Points,Letter,Medium,1,No,Medium,2,1,3,Yes,1003.25
+7708,Yes,Cash Back,Postcard,Medium,2,No,Low,1,2,3,No,1288.25
+7710,Yes,Points,Postcard,Low,1,Yes,Low,1,1,1,No,1296.5
+7719,Yes,Points,Letter,Medium,1,No,Low,3,1,5,Yes,1129
+7743,Yes,Cash Back,Postcard,High,2,No,Medium,1,1,3,No,954.5
+7748,Yes,Air Miles,Postcard,Medium,2,No,Low,1,1,4,Yes,1794.5
+7763,Yes,Cash Back,Postcard,High,1,No,Medium,3,1,4,Yes,654
+7773,Yes,Points,Letter,Medium,1,No,Low,2,2,6,No,1130.75
+7817,Yes,Air Miles,Letter,Medium,1,No,Low,2,1,2,Yes,1260
+7831,Yes,Points,Postcard,Medium,1,No,Low,1,1,4,Yes,991.5
+7840,Yes,Air Miles,Letter,Low,1,No,High,1,1,4,Yes,1309.25
+7888,Yes,Points,Postcard,Low,1,No,Low,1,2,5,No,854.75
+7907,Yes,Air Miles,Postcard,Low,1,No,Medium,1,1,2,Yes,208
+7912,Yes,Cash Back,Postcard,High,1,Yes,Low,3,2,3,No,1118.75
+7916,Yes,Cash Back,Letter,Medium,1,No,Low,2,2,6,Yes,737.5
+7969,Yes,Points,Letter,Medium,1,No,Low,3,1,3,Yes,891.25
+7970,Yes,Air Miles,Postcard,Medium,1,No,Low,2,1,2,No,940.25
+8014,Yes,Air Miles,Letter,Low,1,No,High,2,1,5,Yes,794
+8025,Yes,Points,Letter,Low,1,No,Low,1,2,2,Yes,864.25
+8038,Yes,Points,Letter,High,1,No,High,2,1,5,Yes,244.75
+8050,Yes,Air Miles,Letter,Medium,1,No,Medium,3,1,5,No,1132.75
+8082,Yes,Points,Letter,Medium,2,No,Medium,2,1,4,Yes,980.25
+8123,Yes,Air Miles,Postcard,Medium,1,No,Low,3,1,4,No,1310.25
+8127,Yes,Cash Back,Postcard,Low,1,No,Low,1,1,4,Yes,203.5
+8153,Yes,Cash Back,Postcard,Low,1,No,Medium,2,1,2,Yes,748.25
+8177,Yes,Air Miles,Letter,Low,1,No,Medium,2,1,4,No,940.5
+8197,Yes,Air Miles,Letter,Medium,1,Yes,Medium,3,2,3,Yes,679.75
+8213,Yes,Points,Postcard,Low,1,No,Low,2,1,4,Yes,1282.5
+8254,Yes,Air Miles,Letter,Medium,1,Yes,Medium,3,1,3,Yes,956.75
+8262,Yes,Air Miles,Postcard,Low,2,No,Low,2,1,4,Yes,1127
+8301,Yes,Air Miles,Postcard,Medium,1,No,Low,3,1,3,Yes,1257.75
+8319,Yes,Cash Back,Postcard,Low,1,No,Low,2,1,3,Yes,896.75
+8352,Yes,Points,Postcard,Low,1,No,Low,2,2,2,Yes,704.5
+8382,Yes,Points,Postcard,Medium,1,No,High,2,1,4,Yes,726.5
+8383,Yes,Points,Postcard,Medium,1,No,Low,2,3,2,Yes,1113.5
+8388,Yes,Air Miles,Letter,Medium,1,No,Medium,2,2,2,No,1060
+8465,Yes,Points,Postcard,Low,1,No,Medium,2,1,3,Yes,698.5
+8469,Yes,Air Miles,Letter,Medium,1,No,Medium,1,1,5,No,885.75
+8505,Yes,Air Miles,Letter,High,1,No,Low,3,3,1,No,181.75
+8511,Yes,Air Miles,Postcard,Low,1,No,Low,2,1,5,Yes,1277
+8515,Yes,Points,Postcard,Medium,1,No,Low,3,1,4,No,1227.5
+8530,Yes,Cash Back,Postcard,Medium,1,No,Low,2,1,5,No,874.5
+8531,Yes,Air Miles,Postcard,Medium,1,No,Low,1,1,4,Yes,211.25
+8533,Yes,Points,Letter,Medium,1,No,Low,3,1,1,No,1387.75
+8571,Yes,Air Miles,Postcard,Low,1,No,Low,3,1,3,Yes,688
+8590,Yes,Cash Back,Postcard,Medium,1,No,Low,1,1,4,No,992
+8610,Yes,Air Miles,Postcard,Low,1,No,Low,1,1,1,Yes,889.25
+8630,Yes,Cash Back,Letter,Medium,1,No,Low,1,1,4,Yes,164.25
+8634,Yes,Air Miles,Postcard,High,1,Yes,Medium,2,1,2,Yes,916.5
+8642,Yes,Air Miles,Postcard,Low,1,No,Medium,3,2,5,Yes,1626.75
+8648,Yes,Points,Postcard,Low,1,No,Low,2,1,3,No,1052.75
+8683,Yes,Air Miles,Postcard,High,1,No,Low,2,1,3,No,1038.75
+8689,Yes,Air Miles,Postcard,Medium,2,No,Medium,2,1,4,Yes,745.5
+8763,Yes,Points,Postcard,Low,1,No,Low,2,1,4,Yes,789.5
+8783,Yes,Points,Letter,Low,2,No,Medium,1,1,3,Yes,1052.5
+8813,Yes,Points,Letter,Low,2,No,Low,1,1,5,Yes,949.75
+8828,Yes,Air Miles,Postcard,Medium,1,No,Low,2,1,1,No,987.75
+8848,Yes,Points,Postcard,Medium,2,No,Low,2,1,3,Yes,986.25
+8852,Yes,Air Miles,Postcard,Medium,1,No,Medium,2,1,3,No,1051
+8854,Yes,Air Miles,Postcard,Medium,1,No,High,2,2,6,Yes,1358.75
+8891,Yes,Points,Letter,Low,1,No,Medium,3,1,3,Yes,926
+8909,Yes,Cash Back,Postcard,Medium,1,Yes,Low,2,2,3,Yes,831.5
+8938,Yes,Air Miles,Postcard,Medium,1,No,Low,2,1,1,Yes,1106.5
+8952,Yes,Air Miles,Letter,Medium,1,No,Low,1,2,6,Yes,1073.5
+8966,Yes,Air Miles,Letter,Low,1,No,Low,2,1,4,Yes,939
+8995,Yes,Air Miles,Postcard,Low,3,No,Low,3,1,4,Yes,1312
+9032,Yes,Air Miles,Postcard,Low,2,No,Medium,1,1,1,Yes,1077.25
+9044,Yes,Points,Postcard,Low,1,Yes,Low,2,1,5,Yes,1167
+9057,Yes,Cash Back,Postcard,Medium,1,No,Low,2,2,4,Yes,869.25
+9076,Yes,Air Miles,Postcard,Medium,1,No,Medium,2,1,4,No,1053.75
+9086,Yes,Air Miles,Postcard,High,1,No,High,1,1,4,No,871.5
+9125,Yes,Points,Letter,Low,1,No,Low,1,1,4,Yes,1193.25
+9133,Yes,Points,Postcard,Low,1,No,Medium,2,1,5,Yes,915.75
+9161,Yes,Air Miles,Postcard,Medium,2,No,Low,2,1,3,Yes,652
+9207,Yes,Air Miles,Letter,Low,1,No,High,3,1,4,Yes,1262.25
+9215,Yes,Air Miles,Postcard,High,1,No,Low,3,1,5,Yes,666.5
+9219,Yes,Cash Back,Postcard,Medium,1,No,Low,1,1,3,Yes,931.25
+9252,Yes,Air Miles,Letter,Medium,1,No,High,1,1,4,Yes,707
+9267,Yes,Points,Postcard,Low,1,No,Low,2,1,2,Yes,1018.25
+9276,Yes,Air Miles,Postcard,Low,1,No,High,2,1,2,Yes,1003
+9282,Yes,Points,Letter,High,1,No,Low,3,1,3,No,190.5
+9299,Yes,Air Miles,Letter,Low,2,No,High,2,2,3,No,227
+9349,Yes,Points,Letter,Medium,1,No,Medium,2,1,3,No,680
+9386,Yes,Air Miles,Letter,Medium,2,Yes,Low,3,1,3,Yes,622.25
+9449,Yes,Air Miles,Postcard,Medium,1,No,Low,2,1,5,Yes,246.25
+9468,Yes,Air Miles,Letter,Low,1,No,Medium,2,1,4,No,1319.75
+9489,Yes,Air Miles,Letter,Medium,1,No,Low,3,1,2,Yes,686
+9526,Yes,Air Miles,Postcard,Low,1,No,Low,1,1,3,No,901
+9533,Yes,Air Miles,Postcard,Low,1,No,High,1,2,2,No,979.75
+9534,Yes,Air Miles,Postcard,Low,1,Yes,Low,3,1,3,Yes,718.25
+9584,Yes,Cash Back,Letter,Low,1,No,Low,3,1,4,Yes,1291.5
+9595,Yes,Cash Back,Postcard,Medium,1,No,Medium,1,2,4,Yes,1375.5
+9621,Yes,Points,Postcard,Medium,1,No,Medium,2,2,3,Yes,1195.5
+9629,Yes,Points,Postcard,Medium,1,Yes,Low,3,1,4,Yes,1441.25
+9640,Yes,Air Miles,Letter,Medium,1,No,Low,3,1,2,Yes,735
+9654,Yes,Points,Postcard,Medium,1,No,Medium,2,2,3,No,1163.5
+9661,Yes,Points,Postcard,High,1,No,Medium,2,1,5,Yes,1283
+9680,Yes,Points,Postcard,Low,2,No,Low,2,1,6,Yes,867.5
+9690,Yes,Air Miles,Postcard,Medium,1,No,Low,2,1,4,Yes,1191
+9694,Yes,Air Miles,Postcard,Medium,2,No,Low,3,1,4,Yes,1239.25
+9707,Yes,Cash Back,Postcard,Low,1,No,Low,1,1,5,No,1206
+9721,Yes,Air Miles,Letter,Low,1,No,Medium,2,1,3,Yes,652.5
+9754,Yes,Air Miles,Postcard,High,1,No,Low,1,1,3,Yes,1006
+9765,Yes,Points,Letter,Medium,2,No,Medium,2,2,5,Yes,284.25
+9777,Yes,Air Miles,Postcard,Medium,1,No,Medium,3,1,5,No,837.5
+9799,Yes,Air Miles,Postcard,Medium,2,No,Low,1,1,4,No,1726.25
+9821,Yes,Points,Postcard,Medium,1,No,Low,2,1,2,Yes,1176.25
+9826,Yes,Cash Back,Postcard,Medium,1,No,Low,1,1,4,Yes,184.25
+9846,Yes,Air Miles,Postcard,High,1,No,Low,1,1,5,Yes,1212.75
+9847,Yes,Cash Back,Letter,Medium,2,No,Low,2,1,3,No,1066.75
+9858,Yes,Air Miles,Postcard,Low,2,No,Low,3,1,4,No,1220.25
+9893,Yes,Air Miles,Letter,Medium,2,No,Medium,3,2,3,No,967
+9898,Yes,Points,Postcard,High,2,Yes,Low,2,1,3,No,1010.25
+9904,Yes,Air Miles,Letter,Low,1,No,High,1,1,3,No,921.25
+9925,Yes,Cash Back,Postcard,Medium,1,No,Low,2,1,4,Yes,1228.25
+9940,Yes,Air Miles,Postcard,Medium,1,No,Low,3,2,3,No,258.25
+9947,Yes,Air Miles,Letter,Low,1,No,Medium,2,1,3,No,1074
+9951,Yes,Air Miles,Letter,Medium,1,No,Medium,2,2,5,No,1040.5
+9966,Yes,Air Miles,Postcard,Low,1,No,Low,1,1,3,Yes,942.5
+9983,Yes,Points,Postcard,Low,1,No,Low,2,2,2,No,1145.25
+10002,Yes,Points,Postcard,Medium,1,No,Medium,1,2,3,No,120.75
+10021,Yes,Points,Letter,Low,1,Yes,Medium,2,1,4,Yes,910
+10032,Yes,Points,Letter,Medium,1,No,Low,3,1,2,Yes,1327.25
+10054,Yes,Cash Back,Postcard,Medium,1,No,Low,2,1,2,No,1094.5
+10074,Yes,Air Miles,Postcard,High,2,No,Low,1,1,3,Yes,1215.5
+10082,Yes,Air Miles,Postcard,Medium,1,No,Low,1,1,2,Yes,1145.25
+10099,Yes,Points,Postcard,Medium,1,No,Low,2,1,3,Yes,1047
+10130,Yes,Cash Back,Postcard,Low,1,No,Medium,1,2,5,No,1003.75
+10147,Yes,Air Miles,Postcard,Medium,1,No,Low,1,1,3,No,939.75
+10256,Yes,Cash Back,Postcard,Low,3,No,Low,3,1,2,Yes,1058.25
+10261,Yes,Air Miles,Postcard,Low,1,No,Low,1,2,3,Yes,1280
+10265,Yes,Points,Postcard,Medium,2,No,Medium,1,1,2,Yes,1216.25
+10269,Yes,Air Miles,Postcard,Medium,2,No,Medium,1,1,5,Yes,1184.5
+10291,Yes,Points,Postcard,Medium,1,No,Low,1,1,3,Yes,791.75
+10301,Yes,Cash Back,Postcard,Medium,2,No,Low,3,1,3,Yes,876
+10307,Yes,Air Miles,Postcard,Low,1,Yes,High,1,1,4,Yes,1162.25
+10343,Yes,Points,Postcard,Low,1,Yes,Low,2,1,4,No,729.75
+10352,Yes,Air Miles,Postcard,Low,1,No,Low,3,1,3,Yes,1062.25
+10357,Yes,Points,Postcard,Medium,2,No,High,3,1,3,No,1065.25
+10381,Yes,Air Miles,Postcard,Medium,1,No,High,2,1,5,Yes,1214.25
+10384,Yes,Air Miles,Postcard,Low,1,Yes,Medium,2,1,3,Yes,814
+10405,Yes,Cash Back,Postcard,Medium,1,No,Low,1,1,2,Yes,1049.75
+10443,Yes,Points,Postcard,Medium,1,No,High,3,1,3,Yes,802.5
+10447,Yes,Air Miles,Postcard,Low,2,No,Medium,3,1,3,Yes,1300.25
+10465,Yes,Points,Postcard,Medium,1,No,Medium,1,3,3,Yes,297.25
+10496,Yes,Air Miles,Postcard,Medium,2,No,Low,2,1,4,No,1203
+10511,Yes,Air Miles,Postcard,Low,1,No,Low,4,1,4,Yes,806.5
+10555,Yes,Cash Back,Postcard,Medium,1,No,Low,1,3,4,No,1044.5
+10587,Yes,Points,Postcard,Low,1,Yes,Low,3,2,5,Yes,326.75
+10644,Yes,Air Miles,Letter,Medium,1,No,Low,1,1,4,Yes,1041.75
+10670,Yes,Points,Postcard,Medium,1,No,Low,1,2,2,Yes,159.5
+10679,Yes,Air Miles,Postcard,Medium,2,Yes,Low,1,1,5,Yes,905.75
+10691,Yes,Air Miles,Postcard,High,1,No,Low,3,1,2,Yes,1152.5
+10738,Yes,Air Miles,Postcard,Low,1,Yes,Low,3,1,1,Yes,260.25
+10763,Yes,Air Miles,Postcard,Low,2,No,Low,2,1,4,No,1082
+10764,Yes,Air Miles,Postcard,Low,1,No,Low,3,1,3,Yes,1305.5
+10775,Yes,Points,Postcard,Medium,1,Yes,Medium,2,1,3,Yes,172
+10777,Yes,Air Miles,Postcard,Medium,1,No,Low,1,1,2,Yes,800.5
+10785,Yes,Air Miles,Postcard,Low,1,No,Medium,3,2,3,Yes,978.5
+10800,Yes,Cash Back,Letter,Medium,1,No,Low,1,1,5,No,1141
+10804,Yes,Points,Letter,Medium,1,No,Medium,2,1,3,Yes,1346.75
+10817,Yes,Cash Back,Letter,Low,1,No,Low,3,1,5,Yes,260
+10835,Yes,Air Miles,Letter,Low,1,No,Medium,2,1,3,Yes,771.75
+10863,Yes,Air Miles,Postcard,Medium,1,No,Low,1,1,4,Yes,1216
+10874,Yes,Points,Postcard,High,2,No,Low,1,2,2,Yes,396.25
+10882,Yes,Points,Postcard,High,2,No,Low,2,1,5,Yes,370
+10912,Yes,Air Miles,Postcard,Medium,1,No,Low,2,1,5,No,1085.75
+10949,Yes,Cash Back,Postcard,Medium,1,Yes,Medium,2,1,3,Yes,1141.25
+10966,Yes,Air Miles,Letter,Low,1,No,Medium,1,1,3,No,1280.5
+10973,Yes,Cash Back,Letter,Medium,1,No,Low,3,1,3,No,1014
+10995,Yes,Air Miles,Postcard,Low,2,Yes,Low,2,1,3,Yes,393
+11010,Yes,Air Miles,Postcard,Low,1,No,Low,2,1,3,Yes,351.75
+11041,Yes,Points,Postcard,High,1,Yes,Low,1,1,3,Yes,749.5
+11048,Yes,Cash Back,Postcard,Low,1,No,Low,1,1,2,No,944.75
+11063,Yes,Points,Letter,Low,1,No,Low,2,2,3,No,247.25
+11079,Yes,Air Miles,Letter,Medium,1,No,Medium,2,1,5,Yes,224.5
+11104,Yes,Air Miles,Letter,Low,2,No,Low,1,1,4,No,1092.5
+11128,Yes,Air Miles,Letter,Medium,2,No,Low,1,1,4,Yes,1230.5
+11130,Yes,Air Miles,Postcard,Medium,1,No,Low,3,1,2,Yes,972.5
+11220,Yes,Cash Back,Postcard,Medium,1,Yes,Low,2,2,4,No,898
+11222,Yes,Points,Postcard,Low,1,No,High,2,1,2,Yes,1344.75
+11228,Yes,Cash Back,Postcard,High,1,No,Medium,3,1,4,Yes,1175.25
+11240,Yes,Cash Back,Postcard,Low,2,No,Low,1,1,3,Yes,1253.5
+11259,Yes,Air Miles,Postcard,Medium,1,Yes,Medium,2,2,2,No,771.5
+11262,Yes,Points,Letter,Medium,1,No,Low,2,2,2,Yes,1198.25
+11278,Yes,Air Miles,Letter,Medium,1,No,High,1,1,3,Yes,1160.25
+11292,Yes,Air Miles,Postcard,Medium,1,Yes,Low,2,1,6,No,180.25
+11326,Yes,Air Miles,Postcard,Low,1,No,Low,3,1,5,Yes,1019.25
+11336,Yes,Air Miles,Postcard,Medium,2,No,Low,3,1,4,No,1295.5
+11347,Yes,Points,Postcard,Low,1,No,Low,3,1,3,No,1095.75
+11360,Yes,Points,Postcard,Medium,2,No,Medium,1,1,1,Yes,312.75
+11367,Yes,Cash Back,Postcard,High,1,Yes,Low,1,2,4,Yes,1029.75
+11393,Yes,Points,Postcard,High,1,Yes,Medium,2,1,3,No,197.75
+11402,Yes,Air Miles,Letter,Low,1,Yes,Medium,3,1,3,Yes,966.25
+11444,Yes,Air Miles,Letter,Low,1,No,Medium,2,1,5,Yes,1797
+11449,Yes,Points,Postcard,Low,1,No,Low,4,1,3,Yes,1147.75
+11454,Yes,Cash Back,Postcard,Low,2,No,Low,1,1,3,Yes,1114.25
+11461,Yes,Air Miles,Letter,Medium,1,No,High,2,2,4,No,225
+11467,Yes,Points,Postcard,Low,2,No,High,1,1,2,No,689.75
+11468,Yes,Points,Letter,Low,1,Yes,Low,3,1,4,Yes,1129
+11470,Yes,Points,Postcard,Low,1,No,Medium,2,1,5,Yes,1066.75
+11476,Yes,Air Miles,Letter,Medium,1,No,Medium,1,1,4,No,165
+11483,Yes,Points,Postcard,Medium,1,No,Low,2,1,2,Yes,922.75
+11488,Yes,Points,Postcard,Low,1,Yes,Low,2,1,3,No,778.25
+11510,Yes,Points,Letter,Medium,1,No,Low,1,1,4,Yes,1317
+11554,Yes,Air Miles,Postcard,Low,1,No,High,2,1,4,Yes,1033.75
+11573,Yes,Points,Letter,Low,1,No,Low,2,1,5,Yes,1263.25
+11597,Yes,Cash Back,Postcard,High,1,No,Medium,2,1,4,No,275.25
+11623,Yes,Cash Back,Postcard,Medium,2,No,Low,2,1,4,No,742
+11628,Yes,Cash Back,Letter,Medium,2,No,Low,3,1,3,Yes,1241.5
+11650,Yes,Air Miles,Letter,Medium,1,No,Low,3,2,5,No,867
+11707,Yes,Air Miles,Postcard,Medium,1,Yes,Medium,1,1,4,Yes,1709.75
+11746,Yes,Air Miles,Letter,Low,1,No,Medium,2,1,6,Yes,267.75
+11771,Yes,Air Miles,Postcard,Medium,2,No,Medium,1,1,1,Yes,686.25
+11791,Yes,Air Miles,Postcard,Medium,2,No,High,3,1,4,No,250.5
+11813,Yes,Cash Back,Postcard,Low,1,No,Low,2,1,1,Yes,1284.75
+11815,Yes,Points,Letter,Low,1,No,Low,3,1,4,No,376.5
+11854,Yes,Cash Back,Postcard,Medium,1,No,Low,2,1,2,No,701.5
+11861,Yes,Cash Back,Postcard,Low,2,No,Low,1,1,2,Yes,966
+11862,Yes,Air Miles,Postcard,Medium,1,Yes,Low,3,2,4,Yes,593.25
+11869,Yes,Air Miles,Letter,Medium,1,No,Low,2,1,5,No,922.75
+11922,Yes,Air Miles,Postcard,Medium,1,No,Low,2,1,2,No,957.5
+11938,Yes,Cash Back,Postcard,Low,2,No,Medium,2,1,3,Yes,1040.75
+11946,Yes,Points,Letter,Medium,2,No,Medium,2,1,4,Yes,311
+11957,Yes,Air Miles,Postcard,Medium,1,Yes,Medium,2,2,4,No,673.25
+11990,Yes,Air Miles,Postcard,Medium,1,Yes,Low,1,1,2,No,1249.5
+11993,Yes,Cash Back,Letter,Medium,1,No,Low,2,2,2,Yes,964.5
+12025,Yes,Points,Letter,Low,1,No,Low,1,1,2,Yes,1303.75
+12056,Yes,Points,Postcard,Low,1,No,Low,3,1,3,No,345
+12059,Yes,Air Miles,Postcard,Low,1,No,Medium,3,1,4,Yes,1253.75
+12062,Yes,Air Miles,Postcard,High,1,No,Medium,1,2,4,Yes,1188.5
+12073,Yes,Cash Back,Postcard,Low,1,No,Low,1,1,3,No,1135
+12089,Yes,Air Miles,Postcard,Low,1,No,Medium,1,1,4,Yes,970
+12142,Yes,Cash Back,Postcard,Low,2,Yes,Medium,3,1,4,No,971.5
+12144,Yes,Air Miles,Postcard,Medium,1,No,Low,2,2,5,Yes,1598
+12160,Yes,Points,Postcard,Medium,1,No,Medium,2,1,2,Yes,1116.75
+12166,Yes,Cash Back,Postcard,Low,1,No,Medium,2,1,5,No,1018.75
+12182,Yes,Air Miles,Postcard,Medium,1,Yes,Low,3,1,5,Yes,1207
+12229,Yes,Air Miles,Postcard,Medium,1,No,Medium,2,1,4,Yes,114.5
+12231,Yes,Cash Back,Postcard,Low,2,No,Medium,4,1,4,Yes,921
+12268,Yes,Air Miles,Letter,Low,2,No,Medium,2,1,3,Yes,669.25
+12296,Yes,Air Miles,Postcard,Low,1,No,Low,1,1,5,Yes,1086
+12307,Yes,Points,Postcard,Medium,1,Yes,Low,1,1,4,Yes,1082.75
+12318,Yes,Cash Back,Postcard,Medium,2,No,Low,4,1,4,No,819.5
+12326,Yes,Points,Postcard,Medium,2,No,Medium,2,1,4,No,992.75
+12327,Yes,Cash Back,Letter,Medium,1,No,Low,2,3,3,Yes,1400.75
+12335,Yes,Cash Back,Letter,Low,1,No,Low,2,1,4,No,1080
+12348,Yes,Cash Back,Postcard,Low,2,No,Low,3,1,5,Yes,1163.25
+12364,Yes,Cash Back,Postcard,Low,1,No,Medium,3,1,3,No,954.5
+12388,Yes,Air Miles,Postcard,Low,2,No,Low,2,2,4,Yes,735.5
+12395,Yes,Air Miles,Letter,Low,1,No,Low,2,2,4,Yes,1258
+12409,Yes,Points,Letter,Medium,1,No,Low,3,1,4,Yes,1011
+12421,Yes,Air Miles,Postcard,Medium,1,No,High,3,1,4,No,909
+12428,Yes,Points,Postcard,Medium,1,No,Medium,1,1,3,Yes,1318.5
+12433,Yes,Air Miles,Letter,High,2,No,Low,2,1,5,No,813.5
+12503,Yes,Points,Postcard,Low,1,Yes,Low,1,1,4,Yes,1135.75
+12510,Yes,Points,Letter,High,2,No,Low,2,1,3,Yes,1125
+12516,Yes,Cash Back,Postcard,Low,1,No,Medium,1,2,2,Yes,1179.75
+12520,Yes,Air Miles,Postcard,Medium,1,No,High,1,1,3,Yes,866.5
+12572,Yes,Cash Back,Postcard,Low,2,No,Medium,3,1,5,Yes,181.25
+12579,Yes,Cash Back,Postcard,Low,1,No,Low,2,1,3,No,823.5
+12581,Yes,Points,Postcard,Low,1,No,Low,3,1,2,Yes,955.5
+12614,Yes,Air Miles,Postcard,Medium,2,No,High,3,2,3,Yes,1112.25
+12626,Yes,Points,Postcard,Medium,1,Yes,Low,4,1,4,Yes,1296
+12651,Yes,Points,Letter,High,3,Yes,Low,1,2,2,Yes,1054
+12673,Yes,Air Miles,Postcard,Low,1,No,Low,3,1,4,Yes,1348.25
+12689,Yes,Points,Postcard,Medium,2,No,Low,1,1,3,Yes,1220.25
+12700,Yes,Points,Postcard,Medium,2,No,High,1,1,3,Yes,302
+12706,Yes,Points,Postcard,Low,1,No,Low,1,1,3,No,1293
+12712,Yes,Points,Postcard,High,1,No,Low,1,2,3,No,1332.5
+12721,Yes,Air Miles,Postcard,Low,1,No,Low,4,1,4,No,900
+12725,Yes,Air Miles,Postcard,Low,1,No,Low,3,1,5,Yes,1019.75
+12767,Yes,Points,Postcard,Medium,1,No,Medium,1,2,2,No,1010
+12774,Yes,Cash Back,Postcard,Medium,2,No,Low,1,1,2,No,884.25
+12778,Yes,Points,Postcard,Medium,1,No,Medium,2,1,3,Yes,1060.25
+12789,Yes,Cash Back,Postcard,Medium,2,No,Low,1,1,4,Yes,1016
+12833,Yes,Points,Letter,High,1,Yes,High,2,1,5,Yes,762.5
+12845,Yes,Points,Postcard,Low,2,No,Medium,2,1,6,No,212.75
+12846,Yes,Air Miles,Letter,Medium,2,No,Low,3,1,3,No,1101.75
+12865,Yes,Air Miles,Letter,Medium,1,Yes,Low,3,2,2,Yes,1302.5
+12887,Yes,Points,Postcard,Low,1,No,Low,2,1,5,No,1005.25
+12898,Yes,Air Miles,Postcard,High,1,No,High,3,1,5,No,1056.75
+12905,Yes,Points,Postcard,Low,1,No,Low,1,1,2,Yes,124.25
+12913,Yes,Air Miles,Letter,Low,2,No,Medium,2,1,2,Yes,1091.5
+12923,Yes,Points,Letter,Medium,1,No,High,2,1,2,Yes,1118.5
+12947,Yes,Points,Postcard,Low,1,No,Low,3,2,4,Yes,1165.25
+12948,Yes,Points,Letter,Low,1,No,High,3,2,3,Yes,1016.5
+12949,Yes,Air Miles,Postcard,Medium,1,No,Medium,3,1,4,No,978.25
+12955,Yes,Points,Postcard,Low,1,No,Low,2,1,5,No,1178
+12970,Yes,Air Miles,Postcard,Low,1,No,Medium,1,1,1,Yes,284.5
+12989,Yes,Points,Postcard,Medium,1,No,Low,1,1,3,No,743
+12995,Yes,Points,Letter,Medium,1,No,Low,2,1,3,Yes,1102.25
+13002,Yes,Air Miles,Postcard,Low,2,No,Low,2,1,4,No,1070.25
+13045,Yes,Points,Letter,Low,2,Yes,Low,1,1,5,No,1142.75
+13076,Yes,Points,Letter,Medium,1,No,Medium,1,1,5,Yes,359.75
+13099,Yes,Points,Postcard,Low,1,No,Low,4,2,3,Yes,754.25
+13106,Yes,Points,Letter,Medium,1,No,Low,2,1,3,Yes,1433
+13139,Yes,Air Miles,Letter,Medium,2,No,Low,1,2,3,Yes,976.75
+13180,Yes,Air Miles,Postcard,High,1,No,Low,2,1,5,No,124.5
+13242,Yes,Points,Letter,Medium,1,Yes,Medium,1,1,3,Yes,374
+13243,Yes,Air Miles,Letter,High,1,No,Low,1,1,1,Yes,852.75
+13253,Yes,Cash Back,Postcard,Medium,2,Yes,Low,2,1,4,Yes,983.25
+13287,Yes,Points,Letter,High,1,No,Low,2,1,3,No,1379.5
+13298,Yes,Points,Postcard,High,1,No,Low,1,1,3,No,188.75
+13314,Yes,Air Miles,Postcard,Medium,1,No,Medium,1,1,3,Yes,
+13335,Yes,Points,Postcard,Medium,1,Yes,Medium,3,1,4,Yes,1009.5
+13339,Yes,Cash Back,Postcard,Medium,2,No,Low,2,1,4,Yes,1065.5
+13344,Yes,Air Miles,Postcard,Medium,1,No,Medium,2,1,3,Yes,369.5
+13373,Yes,Air Miles,Postcard,High,1,No,Medium,3,2,2,No,1114.25
+13375,Yes,Cash Back,Postcard,Medium,1,No,Low,1,1,2,Yes,255.75
+13417,Yes,Cash Back,Postcard,High,1,No,Low,1,2,4,No,766.25
+13439,Yes,Cash Back,Postcard,High,1,No,Low,3,1,3,No,857
+13446,Yes,Points,Letter,Low,1,No,Low,2,1,2,No,1339
+13449,Yes,Cash Back,Postcard,Low,1,No,Low,1,2,3,No,881.75
+13454,Yes,Points,Letter,High,1,No,Low,2,2,3,Yes,1007
+13460,Yes,Cash Back,Postcard,Medium,1,No,Low,2,2,2,Yes,1018.25
+13463,Yes,Cash Back,Letter,Low,1,No,Low,3,1,4,Yes,1338.5
+13474,Yes,Cash Back,Letter,Medium,1,No,Low,2,1,4,No,923.75
+13491,Yes,Points,Letter,Low,2,No,Low,3,1,5,Yes,984.75
+13517,Yes,Air Miles,Postcard,High,2,No,Medium,2,1,5,Yes,244.25
+13519,Yes,Air Miles,Postcard,High,1,No,Medium,2,1,5,No,1248.5
+13523,Yes,Air Miles,Postcard,Low,1,No,Low,1,1,3,Yes,1408.25
+13531,Yes,Cash Back,Postcard,Low,2,Yes,Medium,1,2,3,No,1019.5
+13556,Yes,Cash Back,Letter,Low,2,No,Low,2,1,3,Yes,1321.5
+13591,Yes,Air Miles,Letter,Medium,1,No,Low,2,1,4,No,930.5
+13592,Yes,Air Miles,Postcard,Medium,2,No,Medium,2,1,4,Yes,960.5
+13594,Yes,Cash Back,Postcard,Medium,1,No,Low,2,1,2,No,832.75
+13596,Yes,Air Miles,Letter,Medium,1,No,Low,3,1,5,Yes,207.75
+13616,Yes,Air Miles,Postcard,Medium,1,No,High,1,1,4,Yes,1052.5
+13644,Yes,Cash Back,Postcard,Medium,1,No,Low,2,1,3,No,1293.75
+13666,Yes,Points,Letter,Medium,1,Yes,Low,2,1,4,Yes,920
+13683,Yes,Air Miles,Postcard,High,2,No,Low,2,2,3,No,1395.25
+13688,Yes,Points,Letter,Medium,1,Yes,Medium,3,1,4,No,156.5
+13694,Yes,Cash Back,Postcard,Low,1,No,Low,2,1,4,Yes,1057.75
+13696,Yes,Cash Back,Letter,Low,1,No,Low,3,1,1,No,1210.5
+13709,Yes,Air Miles,Postcard,Low,1,No,Low,2,1,1,Yes,885.5
+13712,Yes,Air Miles,Letter,Low,2,No,High,1,1,4,Yes,246.25
+13723,Yes,Air Miles,Postcard,Medium,2,No,Low,2,1,4,Yes,916.25
+13731,Yes,Cash Back,Letter,Low,1,Yes,Low,2,1,2,No,251.75
+13761,Yes,Cash Back,Letter,Low,1,No,High,1,1,4,Yes,1032
+13778,Yes,Cash Back,Postcard,Low,1,No,Low,1,1,5,Yes,1060.75
+13812,Yes,Air Miles,Letter,Low,1,No,Medium,2,1,3,Yes,1301
+13839,Yes,Air Miles,Letter,Low,1,No,High,2,1,2,Yes,1010.75
+13845,Yes,Air Miles,Letter,Medium,2,No,Medium,1,1,4,Yes,853.75
+13846,Yes,Air Miles,Letter,Medium,1,No,High,3,1,4,Yes,1013
+13873,Yes,Air Miles,Letter,Medium,1,No,Low,1,2,4,No,1283.25
+13876,Yes,Points,Postcard,Low,1,No,Low,1,1,3,Yes,805.25
+13886,Yes,Points,Postcard,High,1,No,Low,1,1,3,No,1207
+13889,Yes,Air Miles,Letter,Low,1,No,Medium,2,1,2,Yes,1119.75
+13898,Yes,Air Miles,Postcard,High,1,No,Low,2,1,4,Yes,681.5
+13902,Yes,Air Miles,Letter,Medium,1,No,Low,3,1,4,Yes,1100
+13905,Yes,Points,Postcard,Medium,1,Yes,Medium,1,1,4,No,1801.75
+13925,Yes,Air Miles,Postcard,Medium,1,No,High,1,1,3,Yes,895
+13930,Yes,Points,Letter,High,1,Yes,Low,1,1,6,Yes,1058
+13966,Yes,Air Miles,Letter,Medium,1,No,Low,1,1,3,Yes,881.75
+13970,Yes,Air Miles,Postcard,Medium,1,No,Medium,1,2,3,No,1183.75
+13984,Yes,Air Miles,Letter,Medium,2,No,Low,2,1,5,No,168.75
+13994,Yes,Air Miles,Postcard,Medium,1,No,Low,3,1,4,No,1256.5
+14045,Yes,Cash Back,Postcard,Medium,2,No,Low,1,1,4,Yes,1034.75
+14075,Yes,Cash Back,Letter,Low,1,No,Medium,2,1,5,Yes,1408
+14087,Yes,Points,Letter,Medium,1,No,High,2,1,3,Yes,866
+14093,Yes,Points,Postcard,Low,1,No,Medium,1,2,4,Yes,926.5
+14109,Yes,Cash Back,Letter,Low,1,No,Low,1,1,3,Yes,956.25
+14136,Yes,Cash Back,Letter,Low,1,No,Low,3,1,4,No,1272
+14153,Yes,Points,Postcard,Medium,1,Yes,Medium,1,1,1,Yes,773.75
+14199,Yes,Points,Postcard,Medium,1,Yes,High,3,2,3,No,1054.5
+14207,Yes,Points,Postcard,Medium,1,No,Low,1,1,6,No,1078.5
+14208,Yes,Points,Postcard,Low,1,No,Medium,2,1,4,Yes,1486.5
+14241,Yes,Air Miles,Postcard,Medium,1,No,High,3,1,4,Yes,172.75
+14254,Yes,Air Miles,Postcard,High,3,No,Low,2,1,4,Yes,992.25
+14255,Yes,Air Miles,Postcard,High,2,No,Medium,4,1,4,Yes,1086.25
+14256,Yes,Air Miles,Postcard,High,1,Yes,High,2,1,3,No,1295.75
+14257,Yes,Cash Back,Postcard,Medium,1,No,Low,2,1,2,Yes,747.5
+14265,Yes,Air Miles,Letter,Medium,2,Yes,High,1,2,4,Yes,971.25
+14268,Yes,Air Miles,Letter,Low,2,No,Medium,3,1,4,Yes,318.5
+14277,Yes,Points,Postcard,Medium,1,No,Low,2,1,4,Yes,1400
+14288,Yes,Points,Postcard,Medium,1,No,Low,2,1,3,Yes,873.75
+14336,Yes,Cash Back,Letter,Low,2,No,Low,1,1,5,Yes,1277.25
+14357,Yes,Cash Back,Postcard,Low,1,No,Medium,3,1,4,Yes,742.25
+14375,Yes,Air Miles,Letter,Medium,1,No,Low,1,1,1,Yes,1090.75
+14390,Yes,Air Miles,Postcard,Low,3,No,Low,2,2,3,Yes,1102.75
+14418,Yes,Points,Postcard,Medium,1,No,Low,2,2,2,No,1016.5
+14474,Yes,Air Miles,Letter,High,2,No,Medium,2,1,3,Yes,1128.5
+14477,Yes,Points,Postcard,Medium,2,No,Low,2,1,2,No,343.5
+14482,Yes,Air Miles,Postcard,Low,1,No,Low,2,1,1,Yes,1078
+14496,Yes,Points,Postcard,Medium,2,No,Low,2,1,1,No,1017.75
+14520,Yes,Air Miles,Postcard,Medium,1,No,Low,2,1,4,Yes,1050
+14530,Yes,Air Miles,Postcard,High,2,Yes,Low,2,1,4,No,775
+14532,Yes,Points,Postcard,Low,1,No,Low,1,1,3,No,259
+14545,Yes,Air Miles,Letter,Low,1,No,Low,1,1,4,No,1089.25
+14549,Yes,Points,Postcard,Medium,2,Yes,Low,2,1,4,No,985.5
+14555,Yes,Points,Postcard,Low,1,No,Low,1,1,5,Yes,761.5
+14580,Yes,Air Miles,Postcard,Medium,2,No,Low,3,2,4,Yes,924.5
+14591,Yes,Points,Postcard,Medium,2,No,Low,2,1,3,Yes,744.25
+14602,Yes,Points,Postcard,Low,1,No,Medium,3,1,1,No,704.25
+14610,Yes,Air Miles,Postcard,Medium,1,No,Low,3,1,2,Yes,651
+14626,Yes,Cash Back,Postcard,Low,1,No,Low,2,2,2,No,568.5
+14683,Yes,Air Miles,Postcard,Medium,2,Yes,Low,1,1,3,Yes,238
+14738,Yes,Points,Postcard,Medium,1,No,Medium,3,1,4,Yes,924.5
+14755,Yes,Air Miles,Postcard,Medium,1,No,High,1,1,3,No,1056.25
+14756,Yes,Points,Postcard,Medium,1,Yes,High,2,1,5,Yes,1118
+14844,Yes,Points,Letter,Medium,1,No,Low,2,1,4,Yes,917.75
+14849,Yes,Air Miles,Postcard,High,2,No,Medium,1,2,5,No,335
+14910,Yes,Cash Back,Letter,Medium,2,Yes,Low,2,1,1,Yes,1216.5
+14927,Yes,Air Miles,Postcard,Low,1,No,Low,2,2,3,Yes,979
+14942,Yes,Points,Letter,Low,2,No,Low,2,1,3,Yes,389.5
+14953,Yes,Points,Letter,Low,1,No,Low,1,1,3,Yes,733.25
+14970,Yes,Points,Letter,Medium,1,No,Low,1,2,3,Yes,1152.5
+14987,Yes,Air Miles,Postcard,Medium,1,No,Low,2,1,2,Yes,219.25
+15008,Yes,Cash Back,Letter,Medium,1,No,Low,1,1,3,Yes,1707
+15019,Yes,Points,Letter,Medium,1,No,Low,3,1,3,No,1089.25
+15030,Yes,Cash Back,Postcard,Low,2,No,Low,2,1,5,No,911
+15048,Yes,Cash Back,Postcard,Medium,1,No,Low,2,1,4,Yes,1438
+15053,Yes,Points,Letter,Medium,1,No,Low,2,1,3,Yes,1206.75
+15086,Yes,Points,Postcard,Low,1,No,Low,2,1,5,No,936.5
+15089,Yes,Air Miles,Postcard,Medium,2,No,Low,1,1,3,Yes,200
+15102,Yes,Air Miles,Letter,Medium,1,No,Low,1,2,2,No,966
+15109,Yes,Points,Postcard,High,2,No,Medium,2,1,3,Yes,1348.75
+15121,Yes,Air Miles,Postcard,High,1,No,Low,2,1,3,Yes,1163.75
+15135,Yes,Air Miles,Postcard,High,2,No,Low,1,1,3,Yes,744.25
+15182,Yes,Air Miles,Postcard,Medium,1,No,Low,1,1,3,Yes,1460.25
+15184,Yes,Points,Postcard,Low,1,Yes,High,1,1,2,Yes,257
+15191,Yes,Air Miles,Postcard,Low,1,No,High,2,2,4,No,787.75
+15211,Yes,Air Miles,Postcard,Medium,3,No,Low,2,2,2,Yes,1256.75
+15212,Yes,Air Miles,Postcard,Medium,1,No,Low,1,1,2,Yes,1091.5
+15234,Yes,Air Miles,Postcard,Medium,2,No,Medium,1,1,4,Yes,628.75
+15239,Yes,Air Miles,Postcard,High,1,Yes,High,2,2,5,Yes,784.75
+15261,Yes,Air Miles,Postcard,High,1,No,Medium,3,1,2,Yes,1056.75
+15269,Yes,Cash Back,Letter,Low,1,No,Low,1,2,5,No,1000.75
+15306,Yes,Air Miles,Postcard,Medium,1,No,Low,2,1,3,Yes,302
+15314,Yes,Points,Letter,Medium,1,No,Medium,2,1,4,No,835
+15351,Yes,Air Miles,Postcard,Low,1,No,Low,3,2,3,Yes,913.25
+15373,Yes,Points,Postcard,Medium,2,No,Low,3,1,2,Yes,917.5
+15384,Yes,Cash Back,Postcard,Low,2,No,High,3,2,4,Yes,1283.75
+15392,Yes,Cash Back,Postcard,Low,1,No,Low,1,1,4,Yes,1434.5
+15401,Yes,Points,Postcard,Medium,1,No,Low,3,1,4,Yes,1064.75
+15404,Yes,Cash Back,Letter,High,1,Yes,Low,2,1,4,Yes,956.75
+15409,Yes,Air Miles,Postcard,Medium,1,No,Low,1,1,2,Yes,1119
+15418,Yes,Points,Postcard,Medium,2,No,Low,2,2,5,Yes,1148.25
+15472,Yes,Points,Postcard,High,1,No,High,3,1,2,No,1113.75
+15490,Yes,Points,Postcard,Low,2,No,Low,2,1,4,Yes,168.75
+15510,Yes,Points,Letter,Medium,1,No,Medium,2,1,2,Yes,746.75
+15511,Yes,Cash Back,Postcard,Medium,1,Yes,Low,2,1,4,No,1095.75
+15550,Yes,Air Miles,Postcard,Low,1,No,Low,3,2,3,Yes,987
+15570,Yes,Air Miles,Postcard,High,1,No,Low,2,1,4,Yes,966.5
+15618,Yes,Air Miles,Postcard,Low,1,Yes,High,2,1,5,Yes,215.25
+15663,Yes,Points,Postcard,Low,2,No,Medium,2,1,4,No,853.75
+15667,Yes,Air Miles,Postcard,Low,1,No,Low,1,1,3,No,1071
+15727,Yes,Points,Postcard,Medium,1,No,Medium,1,1,3,Yes,1195.75
+15729,Yes,Air Miles,Letter,Low,1,No,Low,1,1,3,No,1879.25
+15738,Yes,Air Miles,Postcard,Medium,1,No,Medium,2,1,4,No,1105.75
+15740,Yes,Points,Postcard,High,1,No,Low,4,2,2,Yes,1752.25
+15764,Yes,Points,Postcard,Low,1,No,Medium,2,1,5,No,1213.5
+15767,Yes,Air Miles,Postcard,Medium,1,No,Medium,1,1,1,No,713.25
+15777,Yes,Air Miles,Postcard,Low,1,No,Medium,2,1,3,No,891.75
+15781,Yes,Points,Postcard,High,1,No,Low,1,1,5,No,974.25
+15796,Yes,Cash Back,Letter,Low,1,No,High,2,2,4,Yes,1403.5
+15802,Yes,Points,Letter,Low,1,No,Low,2,1,1,No,698
+15856,Yes,Points,Postcard,Medium,1,No,Medium,2,1,4,No,1153.75
+15868,Yes,Air Miles,Letter,Medium,1,No,Low,2,2,2,Yes,1172
+15883,Yes,Air Miles,Postcard,High,1,No,High,2,1,4,Yes,943.75
+15895,Yes,Points,Postcard,Medium,1,No,Low,3,1,4,No,1008.5
+15898,Yes,Air Miles,Postcard,Medium,1,No,Low,3,1,4,Yes,214.75
+15966,Yes,Points,Postcard,Low,2,No,Low,2,1,4,Yes,1036.75
+15969,Yes,Points,Postcard,Medium,1,No,Low,1,1,3,Yes,1051
+16014,Yes,Air Miles,Postcard,High,1,No,Low,1,1,4,Yes,940.25
+16017,Yes,Points,Postcard,Low,1,No,Medium,3,1,4,Yes,1131.5
+16053,Yes,Air Miles,Postcard,Medium,1,Yes,High,1,1,3,Yes,151.5
+16065,Yes,Air Miles,Postcard,Low,1,No,Low,4,1,2,Yes,990
+16081,Yes,Points,Postcard,Medium,2,No,Low,1,2,4,No,1071
+16086,Yes,Points,Postcard,Medium,1,Yes,Medium,2,2,4,Yes,1256
+16092,Yes,Air Miles,Postcard,Medium,1,Yes,Medium,3,1,4,Yes,1088.5
+16094,Yes,Air Miles,Postcard,High,1,No,Low,1,1,3,Yes,330.75
+16121,Yes,Points,Letter,Medium,1,Yes,Low,3,2,3,Yes,1433.75
+16136,Yes,Air Miles,Postcard,High,2,Yes,Low,3,2,3,Yes,685.5
+16138,Yes,Points,Letter,Low,1,No,Low,4,1,3,Yes,975.75
+16141,Yes,Points,Postcard,Low,2,No,Low,1,1,3,Yes,1262.25
+16158,Yes,Air Miles,Postcard,Medium,1,No,Low,1,1,5,No,1186.75
+16169,Yes,Points,Letter,Medium,1,No,Low,1,1,3,Yes,266
+16173,Yes,Cash Back,Letter,Low,1,No,Low,1,1,5,Yes,1156
+16194,Yes,Air Miles,Letter,High,2,No,High,2,1,2,Yes,1028
+16219,Yes,Points,Postcard,Medium,2,No,Medium,1,1,3,Yes,132.25
+16237,Yes,Cash Back,Postcard,Low,2,No,Low,1,1,3,Yes,209.5
+16262,Yes,Points,Postcard,Low,1,No,Low,2,1,4,No,768
+16265,Yes,Points,Letter,Low,1,No,Low,1,1,3,Yes,1217.75
+16303,Yes,Points,Postcard,High,1,No,Medium,1,2,3,Yes,1256.75
+16309,Yes,Air Miles,Postcard,High,1,Yes,Low,1,1,5,Yes,803.25
+16329,Yes,Points,Postcard,Medium,1,No,Low,2,1,5,No,1169
+16339,Yes,Air Miles,Letter,Medium,1,No,Medium,3,1,4,Yes,882.5
+16358,Yes,Points,Postcard,High,1,Yes,Low,1,1,4,Yes,942.5
+16377,Yes,Cash Back,Postcard,High,2,No,Low,1,1,3,Yes,933.75
+16390,Yes,Points,Postcard,Medium,1,No,High,2,1,4,Yes,1038.25
+16418,Yes,Cash Back,Postcard,Medium,1,No,Low,2,1,3,Yes,972.5
+16424,Yes,Points,Postcard,Low,2,Yes,Low,1,1,4,No,1467.75
+16426,Yes,Air Miles,Postcard,Low,1,No,Low,3,1,3,No,873
+16428,Yes,Cash Back,Postcard,Medium,1,No,Medium,2,1,3,Yes,153
+16450,Yes,Points,Postcard,High,1,No,Low,2,1,6,Yes,1085.25
+16460,Yes,Cash Back,Postcard,High,2,No,Low,2,1,3,Yes,689
+16470,Yes,Air Miles,Postcard,Medium,1,No,Low,1,1,3,Yes,1222
+16474,Yes,Air Miles,Postcard,High,2,No,Low,1,1,2,No,1007.5
+16497,Yes,Points,Letter,Low,1,No,Medium,3,1,3,No,780
+16500,Yes,Points,Postcard,Medium,2,Yes,Low,1,2,2,Yes,310
+16502,Yes,Points,Letter,High,2,No,Low,2,1,3,Yes,1175.5
+16508,Yes,Air Miles,Postcard,Low,1,Yes,High,2,2,4,No,786.5
+16517,Yes,Cash Back,Postcard,Low,2,No,Medium,2,2,4,Yes,1280.5
+16533,Yes,Points,Letter,Medium,2,No,Medium,1,1,5,Yes,976
+16544,Yes,Air Miles,Letter,High,1,No,Medium,2,2,3,Yes,839
+16570,Yes,Air Miles,Postcard,Low,2,No,High,2,1,2,Yes,263.25
+16588,Yes,Points,Letter,High,2,No,Low,2,2,3,No,314
+16609,Yes,Points,Postcard,High,1,No,Medium,1,3,3,Yes,1236
+16616,Yes,Air Miles,Letter,Low,1,No,Medium,1,1,4,Yes,1005.25
+16622,Yes,Air Miles,Letter,Low,2,No,Medium,2,1,5,No,1003.75
+16647,Yes,Air Miles,Letter,Medium,1,Yes,Low,2,2,3,Yes,1075.75
+16658,Yes,Air Miles,Postcard,Medium,1,No,High,3,1,3,No,856.5
+16703,Yes,Cash Back,Postcard,Low,1,No,Low,1,1,4,Yes,1023.75
+16758,Yes,Points,Postcard,Medium,1,No,Low,1,1,2,Yes,953.5
+16838,Yes,Points,Postcard,Medium,1,No,High,1,1,3,Yes,1200
+16882,Yes,Air Miles,Postcard,Medium,1,No,Medium,2,1,4,No,1203.5
+16883,Yes,Air Miles,Postcard,Medium,2,No,Low,2,1,4,Yes,1040.5
+16897,Yes,Air Miles,Postcard,Low,2,No,Low,1,1,4,Yes,790.25
+16905,Yes,Cash Back,Postcard,Low,2,No,Low,1,2,4,Yes,1069.75
+16975,Yes,Air Miles,Postcard,Low,1,No,Medium,2,1,6,Yes,825.5
+17001,Yes,Air Miles,Postcard,Medium,1,No,Medium,1,1,5,No,655
+17011,Yes,Cash Back,Letter,Low,2,No,Low,2,1,4,Yes,1055.75
+17025,Yes,Points,Letter,Low,1,No,Medium,2,1,3,Yes,979.75
+17038,Yes,Points,Postcard,High,1,No,High,2,2,4,Yes,1018
+17040,Yes,Cash Back,Postcard,Medium,1,No,Low,3,1,3,No,951.25
+17080,Yes,Air Miles,Postcard,High,1,No,Medium,1,1,4,No,1015.5
+17113,Yes,Cash Back,Postcard,Medium,2,No,Low,2,2,6,Yes,1443.25
+17114,Yes,Cash Back,Postcard,Medium,1,No,Low,1,1,3,No,1021.25
+17134,Yes,Air Miles,Postcard,Medium,1,No,High,1,1,4,Yes,1208
+17189,Yes,Cash Back,Postcard,Medium,2,No,Low,2,2,4,No,1493.25
+17199,Yes,Air Miles,Letter,Low,1,No,Low,1,3,4,No,162.5
+17214,Yes,Air Miles,Letter,Medium,3,No,Low,2,1,4,Yes,1164
+17220,Yes,Air Miles,Postcard,Low,1,No,Low,3,1,2,Yes,1026.75
+17253,Yes,Points,Letter,High,1,No,Low,3,2,4,No,740.75
+17278,Yes,Air Miles,Postcard,Low,2,No,Medium,1,1,3,Yes,1062.75
+17291,Yes,Air Miles,Postcard,Low,1,No,Low,1,1,3,Yes,1331.75
+17330,Yes,Points,Postcard,High,1,No,Low,1,1,4,Yes,1109
+17336,Yes,Points,Postcard,Medium,2,No,Low,3,1,4,No,1155.75
+17350,Yes,Points,Letter,Low,2,No,Low,1,1,6,Yes,1263
+17364,Yes,Points,Postcard,Medium,1,No,Low,2,2,4,Yes,1052.75
+17407,Yes,Cash Back,Postcard,Medium,1,No,Low,1,1,1,No,727.5
+17412,Yes,Air Miles,Postcard,High,1,No,High,2,1,2,Yes,1147
+17431,Yes,Air Miles,Postcard,High,1,No,Medium,3,1,2,Yes,1027.5
+17449,Yes,Air Miles,Postcard,Medium,1,No,Medium,1,1,5,Yes,791.75
+17477,Yes,Cash Back,Postcard,High,2,No,Low,1,1,3,Yes,899.75
+17478,Yes,Air Miles,Postcard,Low,2,No,High,2,1,3,No,1122.25
+17501,Yes,Points,Postcard,Low,2,No,Low,1,1,2,No,1126
+17509,Yes,Air Miles,Letter,Medium,1,No,Low,1,3,4,Yes,1159.75
+17529,Yes,Points,Postcard,Low,1,No,Low,2,1,6,Yes,1079.75
+17537,Yes,Points,Postcard,Low,1,No,High,2,1,3,Yes,1023
+17546,Yes,Air Miles,Letter,Medium,2,Yes,Low,1,1,3,Yes,1282.5
+17553,Yes,Air Miles,Letter,High,1,Yes,Low,4,1,4,No,229.75
+17600,Yes,Cash Back,Letter,Medium,1,No,Low,1,2,5,Yes,1329.5
+17631,Yes,Air Miles,Postcard,Low,1,Yes,Low,1,2,5,Yes,954.5
+17668,Yes,Cash Back,Letter,Low,1,Yes,Low,1,1,4,No,1124.25
+17688,Yes,Cash Back,Postcard,Medium,1,No,Low,1,2,3,No,1270
+17691,Yes,Air Miles,Postcard,Low,1,No,Medium,2,1,3,No,285.75
+17697,Yes,Air Miles,Letter,Low,1,Yes,Low,2,1,4,No,871
+17700,Yes,Cash Back,Postcard,Medium,2,No,Low,2,1,5,No,984
+17714,Yes,Air Miles,Postcard,Medium,1,Yes,Medium,1,1,3,No,1297.5
+17715,Yes,Air Miles,Postcard,High,2,No,Low,4,1,3,No,1177.75
+17740,Yes,Air Miles,Postcard,Low,1,No,Medium,3,1,4,Yes,1110
+17783,Yes,Air Miles,Letter,Medium,2,No,Medium,1,1,2,No,914
+17801,Yes,Points,Postcard,Medium,2,Yes,Low,2,1,5,Yes,810.5
+17825,Yes,Air Miles,Postcard,Medium,1,No,Medium,2,1,1,No,1105.5
+17838,Yes,Cash Back,Letter,Low,1,Yes,Low,1,2,3,Yes,1226.5
+17842,Yes,Air Miles,Postcard,Low,1,No,High,2,1,3,Yes,881.25
+17844,Yes,Air Miles,Letter,Low,1,No,Low,2,1,3,No,995
+17847,Yes,Points,Postcard,Low,1,No,Low,1,1,3,No,1041
+17849,Yes,Cash Back,Letter,Low,1,No,Low,2,1,3,Yes,162.5
+17870,Yes,Points,Postcard,Medium,1,No,Low,2,1,2,Yes,218.5
+17891,Yes,Air Miles,Postcard,High,2,No,Low,2,2,5,Yes,865.75
+17897,Yes,Points,Postcard,Low,1,No,Low,1,1,2,Yes,1011.25
+17904,Yes,Points,Postcard,Low,2,No,Medium,1,1,4,Yes,1038
+17915,Yes,Cash Back,Letter,Low,1,No,Low,3,1,5,No,1099.25
+17932,Yes,Points,Letter,Medium,1,No,High,2,1,5,Yes,1539
+17941,Yes,Air Miles,Postcard,Medium,1,Yes,Low,2,1,4,Yes,1140.25
+17943,Yes,Air Miles,Postcard,Low,1,No,Medium,1,1,3,Yes,1026.25
+17972,Yes,Cash Back,Postcard,Low,1,No,High,2,2,4,Yes,1221.75
+17985,Yes,Points,Postcard,High,1,No,Low,2,1,2,No,977.25
+17992,Yes,Points,Postcard,Low,1,No,Low,3,2,4,Yes,1046.5
